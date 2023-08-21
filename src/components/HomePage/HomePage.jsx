@@ -24,29 +24,29 @@ export default function HomePage() {
 
         <div className="mt-6 grid grid-cols-1 gap-y-6 sm:grid-cols-2 sm:grid-rows-2 sm:gap-x-6 lg:gap-8">
           <div className="group aspect-h-1 aspect-w-2 overflow-hidden rounded-lg sm:aspect-h-1 sm:aspect-w-1 sm:row-span-2 animate__animated animate__fadeInLeft">
-            <Image
-              alt="Two models wearing women's black cotton crewneck tee and off-white cotton crewneck tee."
-              className="object-cover object-center group-hover:opacity-75"
-              src={image1}
-              priority
-            />
-            <div
-              aria-hidden="true"
-              className="bg-gradient-to-b from-transparent to-black opacity-50"
-            />
-            <div className="flex items-end p-6">
-              <div>
-                <h3 className="font-bold text-white text-3xl">
-                  <a href="#">
+            <Link href={"/carreras"}>
+              <Image
+                alt="Two models wearing women's black cotton crewneck tee and off-white cotton crewneck tee."
+                className="object-cover object-center group-hover:opacity-75"
+                src={image1}
+                priority
+              />
+              <div
+                aria-hidden="true"
+                className="bg-gradient-to-b from-transparent to-black opacity-50"
+              />
+              <div className="flex items-end p-6">
+                <div>
+                  <h3 className="font-bold text-white text-3xl">
                     <span className="absolute inset-0" />
                     Carreras Profesionales
-                  </a>
-                </h3>
-                <p aria-hidden="true" className="mt-1 text-lg text-white">
-                  14 Carreras a nivel Licenciatura
-                </p>
+                  </h3>
+                  <p aria-hidden="true" className="mt-1 text-lg text-white">
+                    14 Carreras a nivel Licenciatura
+                  </p>
+                </div>
               </div>
-            </div>
+            </Link>
           </div>
 
           <div className="group aspect-h-1 aspect-w-2 overflow-hidden rounded-lg sm:aspect-none sm:relative sm:h-full animate__animated animate__fadeInDown">
@@ -63,10 +63,8 @@ export default function HomePage() {
             <div className="flex items-end p-6 sm:absolute sm:inset-0">
               <div>
                 <h3 className="font-semibold text-white">
-                  <a href="#">
-                    <span className="absolute inset-0" />
-                    Postgrado
-                  </a>
+                  <span className="absolute inset-0" />
+                  Postgrado
                 </h3>
                 <p aria-hidden="true" className="mt-1 text-sm text-white">
                   Maestrias - Diplomados

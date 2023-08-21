@@ -1,0 +1,1844 @@
+[
+    {
+        "id": 1,
+        "head": {
+            "title": "Ingeniería de Sistemas",
+            "description": "Ingeniería de Sistemas es una rama de la ingeniería que trabaja con un producto de alta complejidad como es el software. En la actualidad, las actividades principales del ser humano funcionan de forma más eficiente con un software. Nada es óptimo sin un software. Por ese motivo, la Ingeniería de Sistemas es una de las carreras con más demanda en el mercado mundial.",
+            "cardContent": {
+                "grado": "Grado Obtenido Licenciatura",
+                "modalidad": "Modalidad Presencial",
+                "duracion": "Duración 4 años (8 semestres)",
+                "ingreso": " Ingreso Sin exámenes"
+            }
+        },
+        "body": {
+            "perfil_campo": {
+                "perfil": "Los Ingenieros de Sistemas son expertos en el diseño, construcción, instalación, testeo, mantenimiento y gerenciamiento del software. El Ingeniero de Sistemas es referente en temas de tecnología para la construcción de soluciones a problemas de gran escala aplicando los conocimientos de la ingeniería e informática. Actualmente, el estado de esta ingeniería está altamente especializado. Es por eso que esta profesión permite dedicarse a diferentes áreas específicas. Por ejemplo: desarrollador de Apps, desarrollador de juegos, Arquitecto de TI, Gerente de TI, Científico de Datos, Project Manager, Hacker ético, Consultor de TI, emprendedor y muchos más.",
+                "campo": "Un Ingeniero de Sistemas puede trabajar prácticamente en cualquier empresa. Toda institución necesita profesionales que lideren los procesos de transformación digital, planteen soluciones estratégicas acordes a las necesidades del mercado actual y se adapten a los avances tecnológicos. Los requerimientos de profesionales en Ingeniería de Sistemas se han incrementado de manera exponencial en Bolivia y en el mundo. Y, gracias a la tecnología, nuestros profesionales pueden trabajar desde Bolivia para el mundo."
+            },
+            "plan_de_estudios": [
+                {
+                    "numSemestre": "Primer Semestre",
+                    "materias": [
+                        "Lógica",
+                        "Introducción a la Programación",
+                        "Arquitectura de Computadoras",
+                        "Física",
+                        "Fundamentos de Matemáticas",
+                        "Metodología del Trabajo Científico",
+                        "Introducción General a la Biblia"
+                    ]
+                },
+                {
+                    "numSemestre": "Segundo Semestre",
+                    "materias": [
+                        "Sistemas Digitales I",
+                        "Estructura de Datos",
+                        "Fisica Aplicada",
+                        "Cálculo I",
+                        "Algebra Lineal",
+                        "Ingles",
+                        "Liderazgo y Comunidad"
+                    ]
+                },
+                {
+                    "numSemestre": "Tercer Semestre",
+                    "materias": [
+                        "Sistemas Digitales II",
+                        "Contabilidad",
+                        "Programación Orientada a Objetos",
+                        "Sistemas Operativos",
+                        "Base de Datos",
+                        "Cálculo II",
+                        "Creencias Cristianas"
+                    ]
+                },
+                {
+                    "numSemestre": "Cuarto Semestre",
+                    "materias": [
+                        "Análisis y Diseño de Sistemas",
+                        "Diseño de Compiladores",
+                        "Taller de Programación",
+                        "Redes I",
+                        "Base de Datos II",
+                        "Estadística",
+                        "Vida Saludable"
+                    ]
+                },
+                {
+                    "numSemestre": "Quinto Semestre",
+                    "materias": [
+                        "Ingeniería de Software",
+                        "Gerencia de Proyectos Informáticos",
+                        "Simulación y Dinámica de Sistemas",
+                        "Análisis de Algoritmos",
+                        "Redes II",
+                        "Taller de Base de Datos",
+                        "Fundamentos de la Familia y Sociedad"
+                    ]
+                },
+                {
+                    "numSemestre": "Sexto Semestre",
+                    "materias": [
+                        "Auditoria y Seguridad de Sistemas",
+                        "Teoría General de Sistemas",
+                        "Arquitectura de Software",
+                        "Tecnologías en Internet",
+                        "Investigación I",
+                        "Ciencia y Biblia"
+                    ]
+                },
+                {
+                    "numSemestre": "Séptimo Semestre",
+                    "materias": [
+                        "Calidad de Software",
+                        "Taller de Aplicaciones en Internet",
+                        "Práctica Empresarial",
+                        "Investigación II",
+                        "Perspectiva Bíblica de la Historia"
+                    ]
+                },
+                {
+                    "numSemestre": "Octavo Semestre",
+                    "materias": [
+                        "Proyecto de Grado",
+                        "Taller de Grado",
+                        "Orientación para el Desempeño",
+                        "Profesional"
+                    ]
+                }
+            ],
+            "footer": {
+                "desc": "El mundo en que vivimos está transformado por las obras de la ingeniería. Crear, innovar y transformar forma parte de la esencia de un ingeniero. Un(a) ingeniero(a) ayuda a resolver problemas que son importantes para la sociedad. De ahí su prestigio. Si te gusta lo diferente y lo innovador ¡esta es la profesión para ti!. Las alternativas laborales son abundantes y variadas. Pocas profesiones te dan una verdadera oportunidad de trabajar por un mundo mejor. ¡Ser ingeniero(a) es genial!",
+                "objetivos": [
+                    {
+                        "id": 1,
+                        "obj": "Formar profesionales con las bases científicas y técnicas necesarias para que puedan desempeñarse con éxito."
+                    },
+                    {
+                        "id": 2,
+                        "obj": "Establecer las bases para contar con ingenieros que ejerzan su profesión con eficiencia y eficacia, que sean proactivos, creativos, innovadores y capaces de trabajar en diferentes equipos."
+                    },
+                    {
+                        "id": 3,
+                        "obj": "Formar ingenieros competentes, capaces de responder profesionalmente a las necesidades y problemáticas del entorno global."
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 2,
+        "head": {
+            "title": "Ingeniería en Redes y Telecomunicaciones",
+            "description": "La carrera de Ingeniería en Redes y Telecomunicaciones forma profesionales para liderar el manejo de la tecnología. Profesionales competentes, innovadores, capaces de gestionar soluciones integrales que promuevan el desarrollo de la ciencia y tecnología. El plan de estudio está diseñado para conseguir que el futuro graduado se desempeñe en las empresas de telecomunicaciones en el área de telemática y redes de datos.",
+            "cardContent": {
+                "grado": "Grado Obtenido Licenciatura",
+                "modalidad": "Modalidad Presencial",
+                "duracion": "Duración 4 años (8 semestres)",
+                "ingreso": " Ingreso Sin exámenes"
+            }
+        },
+        "body": {
+            "perfil_campo": {
+                "perfil": "La carrera de Ingeniería en Redes y Telecomunicaciones de la Universidad Adventista de Bolivia tiene el fin de formar profesionales competentes con una sólida formación tecnológica y un conjunto de habilidades técnicas con aprecio a los principios de la ética cristiana. Durante el programa académico adquiere conocimientos necesarios para el diseño de redes y sistemas integrados de telecomunicaciones, telemática, comprometidos con la formación de valores inculcados en la universidad.A su vez está dispuesto a liderar y colaborar en proyectos en equipos de trabajo de forma innovadora y eficiente, comunicando ideas y conceptos propios de su profesión en entornos dinámicos. Gestiona eficientemente los recursos a su disposición y propone soluciones que promuevan un desarrollo sostenible en la organización, Participa en el desarrollo de planes de implementación tecnológica y de ingeniería aplicada considerando los costos y beneficios asociados al diseño, mantención, evaluación y control de los sistemas electrónicos y de telecomunicaciones.",
+                "campo": "La ingeniería en Redes y Telecomunicaciones es una rama de la ingeniería que resuelve problemas de transmisión y recepción de señales e interconexión de redes. Es la disciplina de aplicación de la telecomunicación, término que se refiere a la comunicación a distancia, generalmente a través de la propagación de ondas electromagnéticas y ópticas. Esto incluye muchas tecnologías, como radio, televisión, teléfono, comunicaciones de datos y redes informáticas como Internet. El Ingeniero en Redes y Telecomunicaciones es responsable del diseño, instalación y configuración de equipos de redes y telecomunicaciones. Son expertos en el envío y recepción de datos sobre diferentes medios de comunicación. Además, es experto en redes informáticas. Algunas de las más utilizadas hoy en día son: LAN, MAN, WAN requerimientos de profesionales en Ingeniería de Sistemas se han incrementado de manera exponencial en Bolivia y en el mundo. Y, gracias a la tecnología, nuestros profesionales pueden trabajar desde Bolivia para el mundo."
+            },
+            "plan_de_estudios": [
+                {
+                    "numSemestre": "Primer Semestre",
+                    "materias": [
+                        "Introducción a las Telecomunicaciones",
+                        "Introducción a la Programación",
+                        "Arquitectura de Computadoras",
+                        "Física",
+                        "Fundamentos de Matemática",
+                        "Metodología del Trabajo Científico",
+                        "Introducción General a la Biblia"
+                    ]
+                },
+                {
+                    "numSemestre": "Segundo Semestre",
+                    "materias": [
+                        "Sistemas Digitales I",
+                        "Telecomunicaciones I",
+                        "Física Aplicada",
+                        "Cálculo I",
+                        "Álgebra Lineal",
+                        "Inglés",
+                        "Componentes Electrónicos",
+                        "Liderazgo y Comunidad"
+                    ]
+                },
+                {
+                    "numSemestre": "Tercer Semestre",
+                    "materias": [
+                        "Telecomunicaciones II",
+                        "Circuitos I",
+                        "Mediciones en Telecomunicaciones",
+                        "Sistemas Digitales II",
+                        "Sistemas Operativos",
+                        "Cálculo II",
+                        "Antropología Cristiana"
+                    ]
+                },
+                {
+                    "numSemestre": "Cuarto Semestre",
+                    "materias": [
+                        "Telecomunicaciones III",
+                        "Circuitos II",
+                        "Antenas y Líneas de Transmisión",
+                        "Redes I",
+                        "Análisis de Señales",
+                        "Estadística",
+                        "Electrónica Análogica",
+                        "Vida Saludable"
+                    ]
+                },
+                {
+                    "numSemestre": "Quinto Semestre",
+                    "materias": [
+                        "Sistemas de Banda Ancha",
+                        "Sistemas de Conmutación",
+                        "Redes II y Sistemas de Transmisión de Datos",
+                        "Taller de Sistemas Embebidos",
+                        "Electrónica de Potencia",
+                        "Radionavegación",
+                        "Fundamentos de la Familia y Sociedad"
+                    ]
+                },
+                {
+                    "numSemestre": "Sexto Semestre",
+                    "materias": [
+                        "Procesamiento de Señales Digitales",
+                        "Sistemas por Fibra Óptica",
+                        "Análisis de Tráfico",
+                        "Redes de Microondas",
+                        "Práctica Empresarial I",
+                        "Investigación I",
+                        "Ciencia y Biblia"
+                    ]
+                },
+                {
+                    "numSemestre": "Séptimo Semestre",
+                    "materias": [
+                        "Auditoría de Redes Telepáticas",
+                        "Legislación en Telecomunicaciones",
+                        "Servicios en Telecomunicaciones",
+                        "Redes Satelitales",
+                        "Práctica Empresarial II",
+                        "Investigación II",
+                        "Perspectiva Bíblica de la Historia"
+                    ]
+                },
+                {
+                    "numSemestre": "Octavo Semestre",
+                    "materias": [
+                        "Proyecto de Grado",
+                        "Taller de Grado",
+                        "Orientación para el Desempeño Profesional"
+                    ]
+                }
+            ],
+            "footer": {
+                "desc": "La carrera en Redes y Telecomunicaciones de la UAB busca promover el desarrollo integral de los estudiantes, en los aspectos físicos, mentales, sociales y espirituales. El ingeniero en Redes y Telecomunicaciones tendrá experiencia en investigación e innovación, competente y éticamente responsable, al servicio de Dios y la Humanidad, en pos del crecimiento tecnológico y en coherencia con una cosmovisión bíblica-cristiana que es el fundamento de su quehacer profesional y social. Además, es una carrera que pretende posicionarse en el manejo de la tecnología en el campo de las telecomunicaciones y redes de computadoras mediante un plan de estudios flexibles permitiendo a los estudiantes una integración con otros programas de especialidad favoreciendo la posibilidad de doble programa.",
+                "objetivos": [
+                    {
+                        "id": 1,
+                        "obj": "Formar Ingenieros en Redes y Telecomunicaciones con conocimientos de ciencia e ingeniería para analizar, diseñar, verificar, validar, construir, aplicar y mantener complejos sistemas de información."
+                    },
+                    {
+                        "id": 2,
+                        "obj": "Preparar al Ingeniero en Redes y Telecomunicaciones como ciudadano, de tal manera que participe activamente en brindar soluciones tecnológicas a las organizaciones por medio del ejercicio profesional."
+                    },
+                    {
+                        "id": 3,
+                        "obj": "Formar Ingenieros en Redes y Telecomunicaciones que permitan el desarrollo de proyectos de Telecomunicaciones, gerenciar y mantener equipos de telecomunicaciones, diseñar sistemas de automatización y navegación, planear, diseñar, implementar y administrar sistemas innovadores propiciando el desarrollo tecnológico actual para la toma de decisiones."
+                    },
+                    {
+                        "id": 4,
+                        "obj": "Conducir los estándares de la profesión y alcanzar posiciones de liderazgo en la profesión de Ingeniero en Redes y Telecomunicaciones y estarán conscientes del contexto global en el cual su profesión se desarrolla."
+                    },
+                    {
+                        "id": 5,
+                        "obj": "Promover el desarrollo integral del estudiante, lo que repercutirá en su comportamiento ético, moral, responsabilidad y honestidad, visión analítica y crítica objetiva en los trabajos que le toque desempeñar."
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 3,
+        "head": {
+            "title": "Ingeniería Ambiental",
+            "description": "La carrera de Ingeniería Ambiental es un proyecto educativo que tiene el objetivo de la formar profesionales de manera integral, es decir que tengan los conocimientos profundos en la disciplina, que le permita insertarse en el mercado laboral y también, que contribuya a su contexto social de manera crítica y constructiva.",
+            "cardContent": {
+                "grado": "Grado Obtenido Licenciatura",
+                "modalidad": "Modalidad Presencial",
+                "duracion": "Duración 4 años (8 semestres)",
+                "ingreso": " Ingreso Sin exámenes"
+            }
+        },
+        "body": {
+            "perfil_campo": {
+                "perfil": "El Ingeniero Ambiental formado en la Universidad Adventista de Bolivia, es un profesional con una visión integral, capaz de identificas y proponer alternativas de solución a problemas medioambientales, aplicando conocimientos científicos, tecnológicos y humanísticos; optimizando procesos y minimizando costos, que permite el desarrollo sostenible y sustentable de la industria, previniendo problemas de contaminación o minimizando el impacto a través de estrategias de reutilización e incorporación de nuevas tecnologías de procesamiento y de control.",
+                "campo": "Los ámbitos de realización del profesional del Ingeniero Ambiental egresado de la Universidad Adventista de Bolivia son: • Seguridad Industrial: En la diversidad de industrias, aplica los conocimientos de Seguridad y Salud Ocupacional, para definir medidas de control y prevenir accidentes laborales, aplicando la Legislación y Normas vigentes tanto nacionales como internacionales, con el objetivo de anticipar, reconocer, evaluar y controlar los riesgos que puedan afectar la seguridad y la salud en el trabajo. • Monitoreo y Saneamiento Ambiental: El profesional realiza la gestión de supervisión y control en la implementación de proyectos industriales, evaluación y seguimiento de procesos industriales dirigidas a evitar, mitigar o revertir impactos negativos en el ambiente producto de las actividades humanas. • Investigación: En las organizaciones, genera nuevos conocimientos en la disciplina, enfocados en la prevención y el uso sostenible de los recursos del medio ambiente."
+            },
+            "plan_de_estudios": [
+                {
+                    "numSemestre": "Primer Semestre",
+                    "materias": [
+                        "Química General e Inorgánica",
+                        "Fundamentos de Matemáticas",
+                        "Biología",
+                        "Introducción a la Ingeniería Ambiental",
+                        "Metodología del Trabajo Científico",
+                        "Algebra Lineal",
+                        "Fundamentos del Cristianismo"
+                    ]
+                },
+                {
+                    "numSemestre": "Segundo Semestre",
+                    "materias": [
+                        "Química Orgánica Bioquímica",
+                        "Cálculo I",
+                        "Educación Ambiental",
+                        "Ecología y Geología Ambiental",
+                        "Informática Aplicada",
+                        "Inglés",
+                        "Liderazgo y Comunidad"
+                    ]
+                },
+                {
+                    "numSemestre": "Tercer Semestre",
+                    "materias": [
+                        "Química Ambiental",
+                        "Cálculo II",
+                        "Ingeniería de Calidad de Suelos",
+                        "Ecología Aplicada",
+                        "Física",
+                        "Antropología Cristiana"
+                    ]
+                },
+                {
+                    "numSemestre": "Cuarto Semestre",
+                    "materias": [
+                        "Ecotoxicología",
+                        "Flujo de Fluidos",
+                        "Procesos Unitarios",
+                        "Microbiología Ambiental",
+                        "Estadística",
+                        "Prevención y Control de Incendios",
+                        "Vida saludable"
+                    ]
+                },
+                {
+                    "numSemestre": "Quinto Semestre",
+                    "materias": [
+                        "Higiene y Seguridad Industrial I",
+                        "Sistemas de Información Geográfica",
+                        "Recursos Energéticos",
+                        "Análisis de Muestras Ambientales",
+                        "Estadística para la Investigación",
+                        "Tratamiento de Agua para el Consumo Humano",
+                        "Fundamentos de la familia y sociedad"
+                    ]
+                },
+                {
+                    "numSemestre": "Sexto Semestre",
+                    "materias": [
+                        "Preparación y Evaluación de Proyectos Ambientales",
+                        "Remediación de Ambientes Degradados",
+                        "Tratamiento de Sustancias y Residuos Peligrosos",
+                        "Tratamiento de Residuos Sólidos Municipales",
+                        "Higiene y Seguridad Industrial II",
+                        "Investigación I",
+                        "Ciencia y Biblia"
+                    ]
+                },
+                {
+                    "numSemestre": "Séptimo Semestre",
+                    "materias": [
+                        "Sistemas Integrados de Gestión",
+                        "Taller de Pasantía I",
+                        "Evaluación de Impactos Ambientales",
+                        "Investigación II",
+                        "Perspectiva Bíblica de la Historia"
+                    ]
+                },
+                {
+                    "numSemestre": "Octavo Semestre",
+                    "materias": [
+                        "Modalidad de Grado",
+                        "Orientación para el Desempeño Profesional"
+                    ]
+                }
+            ],
+            "footer": {
+                "desc": "La carrera de Ingeniería Ambiental y Seguridad Industrial, te ofrece la oportunidad de formarte como profesional y ser un actor importante en la preservación del medio ambiente. Por eso el desarrollo y el futuro de la humanidad está relacionado con la labor trascendente del ingeniero ambiental. Esta es tu oportunidad para puedas formarte como profesional y contribuir para mejorar la calidad de vida de nuestra sociedad.",
+                "objetivos": [
+                    {
+                        "id": 1,
+                        "obj": "Proporcionar los lineamientos generales del proceso formativo, en Ingeniería Ambiental y Seguridad Industrial, para el desarrollo de la práctica educativa en el aula."
+                    },
+                    {
+                        "id": 2,
+                        "obj": "Proporcionar los lineamientos del proceso de construcción de conocimiento, y el desarrollo de las competencias genéricas y específicas de la profesión."
+                    },
+                    {
+                        "id": 3,
+                        "obj": "Desarrollar el proceso pedagógico en función del enunciado del perfil profesional, los lineamientos institucionales, las políticas educativas del país y el contexto laboral."
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 4,
+        "head": {
+            "title": "Administración y Negocios Internacionales",
+            "description": "La carrera de Administración y Negocios Internacionales forma emprendedores que responden a un alto código de ética profesional aplicando principios de responsabilidad, lealtad, respeto y espíritu de servicio. Los estudiantes de la carrera tienen la oportunidad de realizar sus prácticas profesionales en más de 23 empresas con convenio además de la Aduana Nacional. Al pertenecer a la red mundial de universidades adventistas los estudiantes tienen la opción de estudiar un semestre en universidades de Sudamérica.",
+            "cardContent": {
+                "grado": "Grado Obtenido Licenciatura",
+                "modalidad": "Modalidad Presencial",
+                "duracion": "Duración 4 años (8 semestres)",
+                "ingreso": " Ingreso Sin exámenes"
+            }
+        },
+        "body": {
+            "perfil_campo": {
+                "perfil": "El profesional de Administración y Negocios Internacionales es un emprendedor que responde a un alto código de ética profesional aplicando principios de responsabilidad, lealtad, respeto y espíritu de servicio cuyas competencias le permiten: Ejecutar, mejorar e innovar los procesos administrativos. Diseñar, formular, ejecutar, controlar y evaluar estrategias de gestión empresarial que involucren planes estratégicos y operativos.       Liderar, dirigir y desarrollar equipos interdisciplinarios de trabajo.Interpretar la información contable y la información financiera para la toma de decisiones gerenciales.",
+                "campo": "El Profesional en Administración y Negocios Internacionales tiene un amplio campo laboral, puede desempeñarse en cualquier tipo de empresa, comercial, industrial, de servicios, pública o sin fines de lucro, asumiendo funciones y una carrera profesional en las áreas de marketing, producción, finanzas, recursos humanos y en todos los niveles administrativos. Está preparado para gestionar negocios internacionales, como logística de importación y exportación, así mismo tiene la capacidad de emprender su propio negocio y convertirlo en una empresa."
+            },
+            "plan_de_estudios": [
+                {
+                    "numSemestre": "Primer Semestre",
+                    "materias": [
+                        "Administración I",
+                        "Contabilidad I",
+                        "Economía Empresarial",
+                        "Derecho Empresarial",
+                        "Matemáticas I",
+                        "Taller de Expresión Oral y Escrita",
+                        "Metodología del Trabajo Científico",
+                        "Introducción General a la Biblia"
+                    ]
+                },
+                {
+                    "numSemestre": "Segundo Semestre",
+                    "materias": [
+                        "Administración II",
+                        "Desarrollo Denominacional y Profesional",
+                        "Contabilidad II",
+                        "Matemáticas II",
+                        "Inglés I",
+                        "Computación Aplicada",
+                        "Estadística I",
+                        "Liderazgo y Comunidad"
+                    ]
+                },
+                {
+                    "numSemestre": "Tercer Semestre",
+                    "materias": [
+                        "Gestión del Talento Humano",
+                        "Comercio Internacional",
+                        "Contabilidad III",
+                        "Microeconomía",
+                        "Derecho Laboral",
+                        "Inglés II",
+                        "Estadística II",
+                        "Creencias Cristianas"
+                    ]
+                },
+                {
+                    "numSemestre": "Cuarto Semestre",
+                    "materias": [
+                        "Técnicas y Herramientas de Comercio Exterior",
+                        "Marketing",
+                        "Desarrollo de Emprendedores",
+                        "Contabilidad de Costos",
+                        "Macroeconomía",
+                        "Inglés Empresarial",
+                        "Computación Empresarial",
+                        "Vida Saludable"
+                    ]
+                },
+                {
+                    "numSemestre": "Quinto Semestre",
+                    "materias": [
+                        "Administración Estratégica",
+                        "Legislación del Comercio Internacional",
+                        "Marketing Internacional",
+                        "Gestión de la Calidad",
+                        "Transporte Internacional y Seguros",
+                        "Comportamiento Organizacional",
+                        "Presupuestos",
+                        "Fundamentos de la Familia y Sociedad"
+                    ]
+                },
+                {
+                    "numSemestre": "Sexto Semestre",
+                    "materias": [
+                        "Gestión Empresarial",
+                        "Gestión Aduanera",
+                        "Investigación de Mercados Internacionales",
+                        "Sistemas de Calidad Internacional",
+                        "Finanzas I",
+                        "Análisis Para la Toma de Decisiones",
+                        "Sistemas de Información Gerencial",
+                        "Ciencia y Biblia"
+                    ]
+                },
+                {
+                    "numSemestre": "Séptimo Semestre",
+                    "materias": [
+                        "Gestión de Negocios Internacionales",
+                        "Proyectos de Importación y Exportación",
+                        "Administración Pública",
+                        "Preparación y Evaluación de Proyectos",
+                        "Finanzas II",
+                        "Práctica Empresarial I",
+                        "Metodología de la Investigación",
+                        "Perspectiva Bíblica de la Historia"
+                    ]
+                },
+                {
+                    "numSemestre": "Octavo Semestre",
+                    "materias": [
+                        "Práctica Empresarial II",
+                        "Taller de Grado",
+                        "Orientación para el Desempeño Profesional"
+                    ]
+                }
+            ],
+            "footer": {
+                "desc": "La administración es fundamental en la vida del ser humano, todos administramos algo, desde el tiempo, nuestro cuerpo, los recursos que tenemos, siempre con el objetivo de mejorar nuestra situación personal o familiar. Así mismo, nuestro estilo de vida está altamente influenciado por un sinfín de productos y servicios que fueron pensados, y desarrollados por alguna organización, y esa organización liderada por un administrador. Actualmente estamos atravesando una crisis sanitaria a nivel mundial que ha afectado en muchos aspectos nuestro estilo de vida y nuestra situación familiar, económica y social. En este tiempo sin precedentes nuestra sociedad y nuestro país necesita jóvenes dispuestos a hacer lo correcto sin importar las consecuencias, jóvenes que quieran usar sus capacidades y creatividad para solucionar problemas y fomentar el desarrollo del país a través de emprendimientos lícitos y responsables con nuestro planeta, jóvenes que además de poseer las competencias profesionales puedan adaptarse a nuestro entorno en constante cambio, jóvenes que puedan y estén dispuestos a liderar una transformación mundial desde su influencia local. Tu puedes ser parte de ese ejército de líderes que el mundo necesita, ¡te esperamos!",
+                "objetivos": [
+                    {
+                        "id": 1,
+                        "obj": "Formar profesionales con las bases científicas y técnicas necesarias para que puedan desempeñarse con éxito."
+                    },
+                    {
+                        "id": 2,
+                        "obj": "Establecer las bases para contar con ingenieros que ejerzan su profesión con eficiencia y eficacia, que sean proactivos, creativos, innovadores y capaces de trabajar en diferentes equipos."
+                    },
+                    {
+                        "id": 3,
+                        "obj": "Formar ingenieros competentes, capaces de responder profesionalmente a las necesidades y problemáticas del entorno global."
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 5,
+        "head": {
+            "title": "Contaduría Pública",
+            "description": "La Carrera de Contaduría Pública es una profesión del área financiera empresarial que tiene como propósito registrar y analizar el proceso económico y/o financiero de un ente, ya sea del sector público o privado. Al estudiar esta carrera podrás asesorar a pequeñas y grandes empresas en temas financieros para que éstas puedan tomar decisiones acertadas y concretas que les permita avanzar en el logro de sus objetivos. Al formarte como contador público estarás provisto de conocimientos y habilidades contables, financieras, de auditoría, tributos y empresariales que te permitirán asesorar a personas, empresas y grandes organizaciones con relación al cumplimiento de las normas contables, de auditoría, legales y fiscales del país.",
+            "cardContent": {
+                "grado": "Grado Obtenido Licenciatura",
+                "modalidad": "Modalidad Presencial",
+                "duracion": "Duración 4 años (8 semestres)",
+                "ingreso": " Ingreso Sin exámenes"
+            }
+        },
+        "body": {
+            "perfil_campo": {
+                "perfil": "Altamente competente y líder por excelencia, con sólidos conocimientos en las ciencias empresariales. • Experto en el desarrollo e implementación de estrategias, instrumentos y procesos que dan solución óptima a los problemas económicos y financieros. • Hábil en preparar, analizar y diseñar sistemas para la emisión de estados financieros, con el uso de tecnologías informáticas y aplicación de normativas. • Independiente e íntegro, que planifica, ejecuta el trabajo de auditoría tanto interna como externa y que emite dictámenes con carácter público o privado. • Especialista en la consultoría tributaria, gestión y procesos administrativos, control interno, mercados financieros, sistemas de costeo, presupuestos y otros. • Formado con principios y valores cristianos, su integridad da una certera confianza en su entorno y la sociedad.",
+                "campo": "El campo laboral de la carrera de Contaduría Pública, engloba el desarrollo profesional en entidades públicas y privadas en cargos operativos, gerenciales y académicos, relacionados con las áreas de Contabilidad, Auditoría, finanzas, tributación y administración, así como en entidades sin fines de lucro a cargo de la proyección, ejecución y elaboración de productos financieros como también de proyectos de desarrollo."
+            },
+            "plan_de_estudios": [
+                {
+                    "numSemestre": "Primer Semestre",
+                    "materias": [
+                        "Administración I",
+                        "Contabilidad I",
+                        "Economía Empresarial",
+                        "Derecho Empresarial",
+                        "Matemáticas I",
+                        "Taller de Expresión Oral y Escrita",
+                        "Metodología del Trabajo Científico",
+                        "Introducción General a la Biblia"
+                    ]
+                },
+                {
+                    "numSemestre": "Segundo Semestre",
+                    "materias": [
+                        "Contabilidad II",
+                        "Administración II",
+                        "Desarrollo Denominacional y Profesional",
+                        "Matemáticas II",
+                        "Inglés I",
+                        "Computación Aplicada",
+                        "Estadística I",
+                        "Liderazgo y Comunidad"
+                    ]
+                },
+                {
+                    "numSemestre": "Tercer Semestre",
+                    "materias": [
+                        "Contabilidad III",
+                        "Gestión del Talento Humano",
+                        "Comercio Internacional",
+                        "Microeconomía",
+                        "Derecho Laboral",
+                        "Inglés II",
+                        "Estadística II",
+                        "Creencias Cristianas"
+                    ]
+                },
+                {
+                    "numSemestre": "Cuarto Semestre",
+                    "materias": [
+                        "Normas Internacionales",
+                        "Contabilidad de Costos",
+                        "Desarrollo de Emprendedores",
+                        "Marketing",
+                        "Macroeconomía",
+                        "Inglés Empresarial",
+                        "Computación Empresarial",
+                        "Vida Saludable"
+                    ]
+                },
+                {
+                    "numSemestre": "Quinto Semestre",
+                    "materias": [
+                        "Gabinete de Contabilidad",
+                        "Contabilidad Integrada y Gubernamental",
+                        "Contabilidad de Entidades Financieras",
+                        "Auditoría I",
+                        "Derecho Tributario",
+                        "Costos para la Toma de Decisiones",
+                        "Fundamentos de la Familia y Sociedad",
+                        "Presupuestos"
+                    ]
+                },
+                {
+                    "numSemestre": "Sexto Semestre",
+                    "materias": [
+                        "Ciencia y Biblia",
+                        "Sistemas de Información Gerencial",
+                        "Análisis Para la Toma de Decisiones",
+                        "Auditoría II",
+                        "Gabinete de Impuestos",
+                        "Dirección de Auditoría Interna",
+                        "Finanzas I",
+                        "Auditoría Operativa"
+                    ]
+                },
+                {
+                    "numSemestre": "Septimo Semestre",
+                    "materias": [
+                        "Auditoría Forense y Prevención de Fraudes",
+                        "Gabinete de Auditoría",
+                        "Auditoría Impositiva",
+                        "Preparación y Evaluación de Proyectos",
+                        "Finanzas II",
+                        "Práctica Empresarial I",
+                        "Metodología de la Investigación",
+                        "Perspectiva Bíblica de la Historia"
+                    ]
+                },
+                {
+                    "numSemestre": "Octavo Semestre",
+                    "materias": [
+                        "Práctica Empresarial II",
+                        "Taller de Grado",
+                        "Orientación para el Desempeño Profesional"
+                    ]
+                }
+            ],
+            "footer": {
+                "desc": "La formación de los futuros profesionales en Contaduría Pública es una responsabilidad con Dios y la sociedad. “Los lineamientos que otorgan el sentido de nuestra actividad educativa está dirigida al desarrollo de una efectiva calidad de vida para las personas, especialmente para nuestros estudiantes, el vínculo con el entorno, el fomento de las nuevas actividades empresariales, en una permanente innovación y adaptación tecnológica de sus actividades, orientadas a las necesidades institucionales cada vez más exigentes en un mundo carente de principios y valores”.",
+                "objetivos": [
+                    {
+                        "id": 1,
+                        "obj": "Formar profesionales en Contaduría Pública, con alto nivel académico y con competencias éticas."
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 6,
+        "head": {
+            "title": "Ingeniería Comercial",
+            "description": "La Carrera de Ingeniería Comercial aplica conocimientos de estadística, métodos cuantitativos, investigación de mercado, economía, administración, finanzas y marketing para la solución de los problemas sociales y organizacionales; como enfoque principal la gerencia empresarial. En ella se combinan la administración con la economía, estudiando las relaciones comerciales de la empresa a nivel nacional e internacional. Está dirigida al desarrollo y ejecución de soluciones de negocios y es parte en la toma de decisiones productivas y organizativas a nivel de gerencia.",
+            "cardContent": {
+                "grado": "Grado Obtenido Licenciatura",
+                "modalidad": "Modalidad Presencial",
+                "duracion": "Duración 4 años (8 semestres)",
+                "ingreso": "Ingreso Sin exámenes"
+            }
+        },
+        "body": {
+            "perfil_campo": {
+                "perfil": "El Ingeniero Comercial es un profesional creativo, innovador, con sólidos conocimientos en marketing y habilidades en el manejo de herramientas técnicas, tecnológicas para la toma de decisiones estratégicas el ámbito comercial que le permiten contar con habilidades y capacidades para: Investigar mercados, a través del comportamiento del consumidor. Elaborar planes estratégicos de marketing, así como la implementación y gestión. Detectar oportunidades para emprender nuevos negocios y/o desarrollar nuevos productos. Planificar, ejecutar, asesorar, evaluar y controlar los procesos de gestión comercial, en organizaciones empresariales. Diseñar y ejecutar campañas de marketing digital, creación de contenido para el posicionamiento digital de las organizaciones.",
+                "campo": "Un Ingeniero Comercial puede desempeñarse en altos cargos gerenciales dentro de una organización, es un profesional íntegro , innovador y preparado para asumir los retos del mercado laboral; puede asumir cargos de Gerente General, Gerente de Ventas, Gerente de Marketing, Consultor de Empresas, Gerente de Proyectos Nacionales, Gerente de Producción, Gerente de Finanzas, Gestión Estratégica de Negocios, Asesor Multidisciplinario de Actividades económicas y comerciales, Director de Investigación de Mercados y Desarrollo de Nuevos Productos, Experto en Crear Imagen Institucional, Experto en Marketing digital y Community Manager."
+            },
+            "plan_de_estudios": [
+                {
+                    "numSemestre": "Primer Semestre",
+                    "materias": [
+                        "Administración I",
+                        "Economía Empresarial",
+                        "Contabilidad I",
+                        "Derecho Empresarial",
+                        "Matemáticas I",
+                        "Taller de Expresión Oral y Escrita",
+                        "Metodología del Trabajo Científico",
+                        "Fundamentos del Cristianismo"
+                    ]
+                },
+                {
+                    "numSemestre": "Segundo Semestre",
+                    "materias": [
+                        "Administración II",
+                        "Desarrollo Denominacional y Profesional",
+                        "Contabilidad II",
+                        "Matemáticas II",
+                        "Inglés I",
+                        "Computación Aplicada",
+                        "Estadística I",
+                        "Liderazgo y Comunidad"
+                    ]
+                },
+                {
+                    "numSemestre": "Tercer Semestre",
+                    "materias": [
+                        "Gestión del Talento Humano",
+                        "Microeconomía",
+                        "Comercio Internacional",
+                        "Creatividad e Innovación",
+                        "Derecho Laboral",
+                        "Inglés II",
+                        "Estadística II",
+                        "Antropología Cristiana"
+                    ]
+                },
+                {
+                    "numSemestre": "Cuarto Semestre",
+                    "materias": [
+                        "Marketing",
+                        "Desarrollo de Emprendedores",
+                        "Macroeconomía",
+                        "Contabilidad de Costos",
+                        "Inglés Empresarial",
+                        "Computación Empresarial",
+                        "Econometría",
+                        "Vida Saludable"
+                    ]
+                },
+                {
+                    "numSemestre": "Quinto Semestre",
+                    "materias": [
+                        "Marketing Internacional",
+                        "Ingeniería Económica",
+                        "Imagen y Publicidad",
+                        "Comportamiento Organizacional",
+                        "Presupuestos",
+                        "Gestión de la Calidad",
+                        "Modelos y Simulaciones",
+                        "Fundamentos de la Familia y Sociedad"
+                    ]
+                },
+                {
+                    "numSemestre": "Sexto Semestre",
+                    "materias": [
+                        "Marketing Estratégico",
+                        "Neuromarketing y Marketing Lateral",
+                        "Investigación de Mercados",
+                        "Gerencia de Ventas",
+                        "Comportamiento del Consumidor",
+                        "Finanzas I",
+                        "Análisis Para la Toma de Decisiones",
+                        "Ciencia y Biblia"
+                    ]
+                },
+                {
+                    "numSemestre": "Séptimo Semestre",
+                    "materias": [
+                        "Marketing Digital",
+                        "Sistemas y Canales de Distribución",
+                        "Preparación y Evaluación de Proyectos",
+                        "Finanzas II",
+                        "Finanzas Internacionales",
+                        "Práctica Empresarial I",
+                        "Metodología de la Investigación",
+                        "Perspectiva Bíblica de la Historia"
+                    ]
+                },
+                {
+                    "numSemestre": "Octavo Semestre",
+                    "materias": [
+                        "Práctica Empresarial II",
+                        "Taller de Grado",
+                        "Orientación para el Desempeño Profesional"
+                    ]
+                }
+            ],
+            "footer": {
+                "desc": "La carrera de ingeniería comercial, comprometida con la comunidad boliviana responde al cambio de la sociedad mundial, implementando nuevas estrategias y metodologías educativas que juntamente al uso de medios tecnológicos permiten la formación de profesionales competentes, íntegros e innovadores. En nuestra carrera transformamos el esfuerzo en éxito, en el marco de una nueva dinámica de gestión académica y administrativa trabajamos coordinadamente con un equipo humano altamente cualificado y comprometido con el futuro profesional de cada uno de nuestros estudiantes, hemos desarrollado e implementado estrategias para una experiencia académica vivencial única, te invito a recorrer juntos este camino de aprendizaje, estudio y servicio.",
+                "objetivos": [
+                    {
+                        "id": 1,
+                        "obj": "Formar ingenieros comerciales con excelencia académica, valores éticos, competitivos e innovadores, que proporcionen soluciones a los problemas de inherentes a la gestión comercial de las organizaciones empresariales con propuestas estratégicas sostenibles, con capacidad de adaptarse al cambio en los diferentes escenarios socioeconómicos locales, regionales, nacionales e internacionales."
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 7,
+        "head": {
+            "title": "Psicología",
+            "description": "La Psicología es la profesión en la que se detectan, evalúan y proponen estrategias de prevención y solución a patologías de orden psicológico, mismas que son procedentes de la interacción entre individuos, grupos, instituciones y comunidades para el desarrollo del ser humano y la sociedad.",
+            "cardContent": {
+                "grado": "Grado Obtenido Licenciatura",
+                "modalidad": "Modalidad Presencial",
+                "duracion": "Duración 4 años (8 semestres)",
+                "ingreso": " Ingreso Sin exámenes"
+            }
+        },
+        "body": {
+            "perfil_campo": {
+                "perfil": "El psicólogo de la UAB, es un profesional que promueve la salud mental y el mejoramiento de la calidad de vida en el ser humano, tiene la capacidad de lidiar con las dificultades emergentes de su práctica profesional con una mirada de búsqueda del bienestar psicosocial, diagnosticando y acompañando a resolver los problemas de orden psicológico, así como prevenirlos, sosteniendo sus valores ético cristianos y utilizando la investigación científica, como la herramienta principal que le permite afrontar situaciones procedentes del cambio coyuntural de la sociedad.",
+                "campo": "Puede desempeñarse en área de la educación, la salud, la producción y grupos específicos. • Educación, trabaja en guarderías, centros de educación especial, terapia educativa, comunidades de investigación educativa. • Salud, trabaja en hospitales, clínicas, centros de rehabilitación especializada y consultorios particulares. • Producción, trabaja en organizaciones dentro de recursos humanos, programas de reclutamiento, selección de personal, clima laboral e investigación de variables que influyen en la conducta del consumidor.• Grupos específicos, trabaja en programas de acción social, investigación comunitaria y atención a poblaciones rurales, e indígenas desde una mirada de la psicología social."
+            },
+            "plan_de_estudios": [
+                {
+                    "numSemestre": "Primer Semestre",
+                    "materias": [
+                        "Epistemología",
+                        "Fundamentos de la Psicología",
+                        "Psicología del Desarrollo I",
+                        "Neuropsicología I",
+                        "Sociología y Antropología",
+                        "Expresión Oral y Escrita",
+                        "Metodología del Trabajo Científico",
+                        "Introducción General a la Biblia"
+                    ]
+                },
+                {
+                    "numSemestre": "Segundo Semestre",
+                    "materias": [
+                        "Psicoanálisis",
+                        "Psicopatología I",
+                        "Psicología del Desarrollo II",
+                        "Neuropsicología II",
+                        "Psicología de la Comunicación",
+                        "Inglés",
+                        "Liderazgo y Comunidad"
+                    ]
+                },
+                {
+                    "numSemestre": "Tercer Semestre",
+                    "materias": [
+                        "Psicometría",
+                        "Psicopatología II",
+                        "Psicología Cognitiva",
+                        "Psicología Sistémica",
+                        "Psicología de la Gestalt",
+                        "Quechua",
+                        "Creencias Cristianas"
+                    ]
+                },
+                {
+                    "numSemestre": "Cuarto Semestre",
+                    "materias": [
+                        "Técnicas de Evaluación Psicológica I",
+                        "Vida Saludable",
+                        "Entrevista Psicológica",
+                        "Psicología Educativa I",
+                        "Psicología Social",
+                        "Estadística I"
+                    ]
+                },
+                {
+                    "numSemestre": "Quinto Semestre",
+                    "materias": [
+                        "Técnicas de Evaluación Psicológica II",
+                        "Fundamentos de la Familia y la Sociedad",
+                        "Orientación Vocacional",
+                        "Psicología Familiar",
+                        "Psicología Comunitaria",
+                        "Estadística II"
+                    ]
+                },
+                {
+                    "numSemestre": "Sexto Semestre",
+                    "materias": [
+                        "Psicodiagnóstico",
+                        "Psicología Preventiva",
+                        "Análisis Conductual Aplicado",
+                        "Diagnóstico Psico-Organizacional",
+                        "Ciencia y Biblia",
+                        "Investigación I"
+                    ]
+                },
+                {
+                    "numSemestre": "Séptimo Semestre",
+                    "materias": [
+                        "Intervención Clínica",
+                        "Intervención Psico-Educativa",
+                        "Intervención Psico-Social",
+                        "Investigación II",
+                        "Perspectiva Bíblica de la Historia"
+                    ]
+                },
+                {
+                    "numSemestre": "Octavo Semestre",
+                    "materias": [
+                        "Internado",
+                        "Trabajo de Grado",
+                        "Orientación para el Desempeño Profesional"
+                    ]
+                }
+            ],
+            "footer": {
+                "desc": "La psicología, es una ciencia de alta responsabilidad social, pensamiento crítico y sólida formación integral al servicio de la sociedad y en la UAB, asumimos esta labor con el más alto espíritu de reflexión y compromiso para cubrir eficazmente, todas las expectativas emergentes de una sociedad en constante cambio. Te invito a sumarte a un equipo con competencias comunicativas, de planeación y desarrollo profesional constante.",
+                "objetivos": [
+                    {
+                        "id": 1,
+                        "obj": "Formar profesionales de la psicología con una sólida  preparación en una gama amplia de orientaciones teóricas y con  una serie de programas de profundización terminales que adopten una visión integral en cuanto al estudio de los procesos psicológicos, basada saberes conceptuales, procedimentales y actitudinales, que les permitan abordar el estudio de la dimensión psicológica, desde un marco ético, del ser humano, a nivel individual, grupal y/o social."
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 8,
+        "head": {
+            "title": "Psicopedagogía",
+            "description": "La Carrera de Psicopedagogía proporciona herramientas de formación teórica y práctica que comprende el estudio de los procesos cognitivos que intervienen en el aprendizaje y todas las formas de enseñanza. Toma en cuenta y analiza diversas perspectivas metodológicas referidas al aprendizaje, todo ello en función del diseño e implementación de estrategias psicopedagógicas que permitan dar respuestas adecuadas a las condiciones y características de cada persona, en un contexto determinado y con los instrumentos necesarios para optimizar el aprendizaje.",
+            "cardContent": {
+                "grado": "Grado Obtenido Licenciatura",
+                "modalidad": "Modalidad Presencial",
+                "duracion": "Duración 4 años (8 semestres)",
+                "ingreso": " Ingreso Sin exámenes"
+            }
+        },
+        "body": {
+            "perfil_campo": {
+                "perfil": "El Psicopedagogo será capaz de: • Desarrollar competencias y capacidades para la intervención psicopedagógica a nivel individual, dentro del marco de la acción clínico psicopedagógica. • Promover la orientación psicopedagógica, conforme al marco de la asesoría y la organización pedagógica, de acuerdo a la normativa educativa vigente. • Detectar y diagnosticar las dificultades del aprendizaje, a partir de métodos y técnicas formales e informales, dentro del marco del método clínico aplicado a la educación. • Diseñar programas profilácticos en psicopedagogía, a partir de las características y necesidades de cada población. • Promover estrategias de prevención psicopedagógica, mediante programas psico educacionales dirigidos a poblaciones en su diversidad. • Propiciar estrategias metodológicas de la psicopedagogía, para la intervención reeducativa a nivel grupal dentro de las instituciones educativas y dentro de los grupos sociales constituidos de manera transitoria o permanente. • Actuar dentro de los principios ético y deontológicos necesario para el correcto ejercicio profesional en cada uno de los ámbitos de la actuación profesional. • Aplicar procesos metodológicos de investigación enfocados a la solución de problemas de la sociedad en el ámbito psicoeducativo.",
+                "campo": "Los campos de actuación u campo ocupacional del profesional en Psicopedagogía son: • Establecimiento educacional en los niveles preescolares, primario, secundario y terciario. Hogares de menores Centros Hospitalarios Escuelas de educación especial Centros de diagnósticos Centros de orientación familiar, laboral y comunitaria Clínicas psicopedagógicas Institutos psicopedagógicos especializados."
+            },
+            "plan_de_estudios": [
+                {
+                    "numSemestre": "Primer Semestre",
+                    "materias": [
+                        "Fundamentos Neuropsicológicos Aprendizaje I",
+                        "Introducción General a la Biblia",
+                        "Psicología del Desarrollo I",
+                        "Introducción a la Psicopedagogía",
+                        "Taller de Expresión Oral y Escrita",
+                        "Epistemología",
+                        "Sociología y Antropología",
+                        "Metodología del Trabajo Científico"
+                    ]
+                },
+                {
+                    "numSemestre": "Segundo Semestre",
+                    "materias": [
+                        "Didáctica General",
+                        "Fundamentos Neuropsicológicos del Aprendizaje II",
+                        "Liderazgo y Comunidad",
+                        "Psicología del Desarrollo II",
+                        "Psicología del Aprendizaje",
+                        "Dificultades del Aprendizaje I",
+                        "Inglés"
+                    ]
+                },
+                {
+                    "numSemestre": "Tercer Semestre",
+                    "materias": [
+                        "Diseño Curricular",
+                        "Psicogénesis de la Inteligencia",
+                        "Dificultades del Aprendizaje II",
+                        "Introducción a la Educación Especial",
+                        "Creencias Cristianas",
+                        "Psicometría",
+                        "Quechua"
+                    ]
+                },
+                {
+                    "numSemestre": "Cuarto Semestre",
+                    "materias": [
+                        "Didáctica para las Necesidades Educativas",
+                        "Especiales",
+                        "Vida Saludable",
+                        "Análisis Conductual Aplicado",
+                        "Desarrollo del Lenguaje",
+                        "Educación Diferencial",
+                        "Pruebas Psicopedagógicas I",
+                        "Estadística I"
+                    ]
+                },
+                {
+                    "numSemestre": "Quinto Semestre",
+                    "materias": [
+                        "Didáctica para la Enseñanza de la Lectura y Escritura",
+                        "Fundamentos de la Familia y Sociedad",
+                        "Estimulación Oportuna",
+                        "Patologías del Lenguaje",
+                        "Educación Sensorial Visual",
+                        "Pruebas Psicopedagógicas II",
+                        "Estadística II"
+                    ]
+                },
+                {
+                    "numSemestre": "Sexto Semestre",
+                    "materias": [
+                        "Didáctica para la E6nseñanza de la Matemática",
+                        "Ciencia Y Biblia",
+                        "Administración Educativa",
+                        "Educación Sensorial Auditiva",
+                        "Taller para la Elaboración de Informes",
+                        "Intervención Psicopedagógica I",
+                        "Investigación I"
+                    ]
+                },
+                {
+                    "numSemestre": "Séptimo Semestre",
+                    "materias": [
+                        "Gestión de Proyectos Psicoeducativos",
+                        "Orientación Familiar y Sexual",
+                        "Psicopedagogía Comunitaria",
+                        "Orientación Vocacional",
+                        "Intervención Psicopedagógica II",
+                        "Investigación II",
+                        "Perspectiva Bíblica De La Historia"
+                    ]
+                },
+                {
+                    "numSemestre": "Octavo Semestre",
+                    "materias": [
+                        "Orientación para el Desempeño Profesional",
+                        "Trabajo de Grado",
+                        "Internado"
+                    ]
+                }
+            ],
+            "footer": {
+                "desc": "El profesional en Psicopedagogía es un estratega que trabaja sobre el aprendizaje. Promueve y acompaña espacios educativos inclusivos y significativos, respetando cada una de las etapas del desarrollo por las cuales atraviesa el ser humano, logrando vincularse profesionalmente con niños, adolescentes, jóvenes, adultos y adultos mayores, respetando su individualidad y sus características personales.",
+                "objetivos": [
+                    {
+                        "id": 1,
+                        "obj": "Consolidar profesionales con capacidades y habilidades para la detección diagnóstica e intervención, dentro de la dinámica del aprendizaje del ser humano, dentro el marco de la acción psicopedagógica, de acuerdo con el desarrollo de la ciencia y tecnología, fundamentados en la cosmovisión bíblica, para ofrecer un servicio de calidad a Dios y a la sociedad."
+                    },
+                    {
+                        "id": 2,
+                        "obj": "Formar un profesional psicopedagogo con las competencias, conocimientos, habilidades y actitudes que le permiten investigar la complejidad biopsicosocial de la educación y derechos del ser humano, respondiendo proactivamente a las necesidades de la problemática educativa."
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 9,
+        "head": {
+            "title": "Actividad Física y Deportes",
+            "description": "La carrera de Actividad Física y Deportes de la UAB tiene como objetivo preparar profesionales para el desarrollo de la educación física, el deporte y la recreación para las distintas unidades educativas, escuelas deportivas departamentales e instituciones privadas. Para ello contamos con el mejor campus deportivo del país con canchas deportivas reglamentarias de fútbol, voleibol, básquetbol y futsal. Además de una pista atlética y una piscina semiolímpica temperada.",
+            "cardContent": {
+                "grado": "Grado Obtenido Licenciatura",
+                "modalidad": "Modalidad Presencial",
+                "duracion": "Duración 4 años (8 semestres)",
+                "ingreso": "Ingreso con examen"
+            }
+        },
+        "body": {
+            "perfil_campo": {
+                "perfil": "El graduado de la Maestría en Educación, estará capacitado para: Dirigir diversos tipos de organizaciones en diferentes contextos, haciendo uso de sus capacidades de comunicación efectiva, liderazgo y trabajo en equipos de alto desempeño Diseñar, planificar e intervenir utilizando herramientas metodológicas de la gestión administrativa que inciden en el ámbito empresarial y fomentan el emprendimiento organizacional. Aplicar sus conocimientos y destrezas para enfrentar los cambios del entorno económico y comercial, impulsando el desarrollo empresarial. Diseñar estrategias innovadoras de marketing para organizaciones que conduzcan al logro de sus objetivos. Utilizar de forma eficiente sus habilidades para planificar, organizar, controlar, integrar, supervisar y evaluar las acciones de mejoramiento empresarial. Enfrentar los cambios que se presentan en los mercados nacionales e internacionales y responde de modo óptimo a las diferentes exigencias del entorno económico, político, social y tecnológico que enfrentan las empresas. Liderar una organización empresarial en beneficio del mejoramiento socio económico del país, con responsabilidad social y en armonía con el medio ambiente. Utilizar metodologías de investigación científica con miras a optimizar el desarrollo y el éxito de una empresa.",
+                "campo": "El licenciado en Ciencias de la Actividad Física y deportes podrá trabajar como, entrenador personal, preparador Físico, entrenador en escuelas deportivas, profesor de educación física y deportes (colegios privados), personas con discapacidad, personas de la tercera edad, de la misma forma en para parte de administración y gestión en centros deportivos, alcaldías."
+            },
+            "plan_de_estudios": [
+                {
+                    "numSemestre": "Primer Semestre",
+                    "materias": [
+                        "Higiene y Primeros Auxilios",
+                        "Acondicionamiento Físico",
+                        "Antropología y Sociología de la Actividad Físico –Deportiva",
+                        "Metodología del Trabajo Científico",
+                        "Psicomotricidad",
+                        "Psicología del Desarrollo",
+                        "Taller de Expresión Oral y Escrita",
+                        "Fundamentos del Cristianismo"
+                    ]
+                },
+                {
+                    "numSemestre": "Segundo Semestre",
+                    "materias": [
+                        "Inglés",
+                        "Anatomía Humana",
+                        "Teoría y Entrenamiento Deportivo",
+                        "Actividad Física y Salud",
+                        "Métodos y Técnicas de Actividades del Atletismo",
+                        "Psicología de la Actividad Física y el Deporte",
+                        "Habilidades Motrices Básicas y Juegos Motores",
+                        "Liderazgo y Comunidad"
+                    ]
+                },
+                {
+                    "numSemestre": "Tercer Semestre",
+                    "materias": [
+                        "Morfofisiología",
+                        "Práctica y Programación del Entrenamiento Deportivo",
+                        "Actividad Físico-Deportiva y Estilos Saludables",
+                        "Métodos y Técnicas de las Actividades del Fútbol",
+                        "Métodos y Técnicas de las Actividades del Voleibol",
+                        "Informática Aplicada a la Actividad Físico Deportiva",
+                        "Metodología de la Enseñanza de la Actividad Física y el Deporte",
+                        "Antropología Cristiana"
+                    ]
+                },
+                {
+                    "numSemestre": "Cuarto Semestre",
+                    "materias": [
+                        "Fisiología de la Actividad Física",
+                        "Actividad Física y Deporte para Poblaciones con Discapacidad Física",
+                        "Estadística",
+                        "Nutrición Deportiva",
+                        "Métodos y Técnicas de las Actividades del Básquetbol",
+                        "Métodos y Técnicas de Actividades de Natación",
+                        "Vida Saludable"
+                    ]
+                },
+                {
+                    "numSemestre": "Quinto Semestre",
+                    "materias": [
+                        "Biomecánica de la Actividad Físico Deportiva",
+                        "Quechua",
+                        "Antropometría y Evaluación Deportiva",
+                        "Actividad Física en la Tercera Edad",
+                        "Métodos y Técnicas de las Actividades Gimnásticas",
+                        "Fundamentos de la Familia y Sociedad",
+                        "Actividades Físicas Recreativas en el Medio Natural"
+                    ]
+                },
+                {
+                    "numSemestre": "Sexto Semestre",
+                    "materias": [
+                        "Bioenergética Aplicada al Deporte",
+                        "Prescripción de la Actividad Físico- Deportiva Saludable",
+                        "Ciencia y Biblia",
+                        "Juegos y Deportes Alternativos",
+                        "Entrenamiento Personalizado",
+                        "Práctica Profesional I",
+                        "Investigación I"
+                    ]
+                },
+                {
+                    "numSemestre": "Séptimo Semestre",
+                    "materias": [
+                        "Medicina Deportiva",
+                        "Organización de Eventos Recreativos Deportivos",
+                        "Perspectiva Bíblica de la Historia",
+                        "Técnicas Coreográficas de la Actividad Física",
+                        "Práctica Profesional II",
+                        "Investigación II"
+                    ]
+                },
+                {
+                    "numSemestre": "Octavo Semestre",
+                    "materias": [
+                        "Gestión y Planificación de Instalaciones y Equipos Deportivos",
+                        "Trabajo de Grado",
+                        "Práctica Profesional III",
+                        "Ética y Desarrollo Profesional",
+                        "Orientación para el desempeño profesional"
+                    ]
+                }
+            ],
+            "footer": {
+                "desc": "La carrera de Ciencias de la Actividad Física y Deportes abre las puertas para todos los estudiantes de Sud América, para aprender y capacitarse en la planificación, implementación, enseñanza y administración de la actividad física y el deporte en sus diferentes niveles. Durante 8 semestres de estudio, con docentes altamente capacitados, contando con una de las mejores infraestructuras deportivas a nivel nacional, acorde para la enseñanza de nuestros futuros profesionales al servicio de la sociedad.",
+                "objetivos": [
+                    {
+                        "id": 1,
+                        "obj": "Desarrollar e implementar programas para la salud del ser humano, a través de la práctica de la actividadfísica y el deporte; en búsqueda de una mejor calidad de vida."
+                    },
+                    {
+                        "id": 2,
+                        "obj": "Diseñar e implementar programas para desarrollar las capacidades coordinativas y condicionales, a través dela actividad física, el deporte para el mantenimiento de la salud, con una visión prospectiva integral basadas en los principios denominaciones y de responsabilidad"
+                    },
+                    {
+                        "id": 3,
+                        "obj": "Proporcionar formación científica investigativa aplicada a la Actividad Física-salud, educación física, gestión, recreación y entrenamiento deportivo en sus diferentes manifestaciones a partir de los fundamentos científicos de la ciencia, dirigida a la prevención, preservación, recuperación y mejoramiento de la salud y el desarrollo deportivo del país."
+                    },
+                    {
+                        "id": 4,
+                        "obj": "Gestionar la practica pre-profesional en instituciones gubernamentales y privadas, para complementar la formación profesional en diferentes áreas de salud, educación, deporte y recreación."
+                    },
+                    {
+                        "id": 5,
+                        "obj": "La carrera de Ciencias de la Actividad Física y Deportes abre las puertas para todos los estudiantes de Sud América, para aprender y capacitarse en la planificación, implementación, enseñanza y administración de la actividad física y el deporte en sus diferentes niveles. Durante 8 semestres de estudio, con docentes altamente capacitados, contando con una de las mejores infraestructuras deportivas a nivel nacional, acorde para la enseñanza de nuestros futuros profesionales al servicio de la sociedad."
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 10,
+        "head": {
+            "title": "Enfermería",
+            "description": "La Carrera de Enfermería con 30 años de trayectoria, es una profesión que ha sabido responder a las necesidades de la población. La carrera forma profesionales con una preparación científica además de responsabilidad social y valores éticos cristianos, ejerciendo el liderazgo para brindar un cuidado holístico a las personas, familia y comunidad, sana o enferma, con miras de mantener o recuperar la salud del ser humano en todo los aspectos biológicos, psicológicos, sociales y espirituales.",
+            "cardContent": {
+                "grado": "Grado Obtenido Licenciatura",
+                "modalidad": "Modalidad Presencial",
+                "duracion": "Duración 4 años y medio (9 semestres)",
+                "ingreso": " Ingreso Sin exámenes"
+            }
+        },
+        "body": {
+            "perfil_campo": {
+                "perfil": "El profesional Licenciado en enfermería egresado de la Universidad Adventista de Bolivia, estará capacitado para desempeñar funciones en las siguientes áreas: Asistencial Brinda cuidado integral de calidad en los procesos de salud enfermedad de las distintas fases del ciclo vital, a fin de mantener y/o recuperar la salud persona familia y comunidad en los distintos niveles de atención de salud, considerando el aspecto físico, social, psicológico, cultural y espiritual.Administrativa Aplica los elementos de administración y gestión en los servicios de salud de los distintos niveles de atención, bajo los criterios de calidad y gestión de liderazgo. Investigación Desarrolla investigaciones científicas y propone alternativa de solución a los problemas de salud desde la gestión del cuidado enfermero, con compromiso ético y responsabilidad. Docencia Desarrolla actividades de Docencia, en base a estrategias pedagógicas, didácticas y tecnológicas, mostrando responsabilidad y competitividad, en la formación de profesionales y no profesionales en salud.",
+                "campo": "Asistencial: El profesional puede trabajar en Hospitales particulares, públicos de primer, segundo y tercer nivel del Ministerio de Salud, empresas, ONGs, fuerzas armadas. Administración: Cargos administrativos en hospitales particulares, públicos, universidades y otras instituciones. Docencia: Universidades formadoras de recursos humanos, institutos superiores, centro de educación permanente de los servicios de salud. Investigaciones científicas, proyectos en salud en ONGs y alcaldías."
+            },
+            "plan_de_estudios": [
+                {
+                    "numSemestre": "Primer Semestre",
+                    "materias": [
+                        "Fundamentos de Enfermería I",
+                        "Introducción a la Salud Comunitaria",
+                        "Anatomía Humana I",
+                        "Biología",
+                        "Quechua",
+                        "Metodología del Trabajo Científico",
+                        "Introducción General a la Biblia"
+                    ]
+                },
+                {
+                    "numSemestre": "Segundo Semestre",
+                    "materias": [
+                        "Fundamentos de Enfermería II",
+                        "Salud Pública I",
+                        "Anatomía Humana II",
+                        "Semiología",
+                        "Matemática Aplicada",
+                        "Inglés",
+                        "Liderazgo y Comunidad"
+                    ]
+                },
+                {
+                    "numSemestre": "Tercer Semestre",
+                    "materias": [
+                        "Enfermería Médico Quirúrgico I",
+                        "Salud Pública II",
+                        "Fisiología y Fisiopatología",
+                        "Farmacología Básica",
+                        "Microbiología y Parasitología",
+                        "Lenguaje y Redacción",
+                        "Creencias Cristianas"
+                    ]
+                },
+                {
+                    "numSemestre": "Cuarto Semestre",
+                    "materias": [
+                        "Enfermería Médico Quirúrgico II",
+                        "Salud Pública III",
+                        "Enfermería Geriátrica",
+                        "Farmacología Aplicada",
+                        "Bioquímica e Interpretación de Laboratorio",
+                        "Bioestadística",
+                        "Vida Saludable"
+                    ]
+                },
+                {
+                    "numSemestre": "Quinto Semestre",
+                    "materias": [
+                        "Enfermería Gineco Obstetricia y Neonatal",
+                        "Salud Pública IV",
+                        "Enfermería en Salud Mental y Psiquiatría",
+                        "Psicología Clínica",
+                        "Nutrición y Dietoterapia",
+                        "Informática",
+                        "Fundamentos de la Familia y Sociedad"
+                    ]
+                },
+                {
+                    "numSemestre": "Sexto Semestre",
+                    "materias": [
+                        "Enfermería Pediátrica y del Adolescente",
+                        "Salud Pública V",
+                        "Epidemiología",
+                        "Pedagogía y Didáctica",
+                        "Investigación I",
+                        "Ciencia y Biblia"
+                    ]
+                },
+                {
+                    "numSemestre": "Séptimo Semestre",
+                    "materias": [
+                        "Enfermería en Terapia Intensiva",
+                        "Enfermería en Urgencias y Emergencias",
+                        "Administración y Gerencia de Servicios de Salud",
+                        "Bioética y Legislación",
+                        "Investigación II",
+                        "Perspectiva Bíblica de la Historia"
+                    ]
+                },
+                {
+                    "numSemestre": "Octavo Semestre",
+                    "materias": [
+                        "Internado Hospitalario",
+                        "Trabajo de Grado",
+                        "Orientación para el Desempeño Profesional"
+                    ]
+                },
+                {
+                    "numSemestre": "Noveno Semestre",
+                    "materias": [
+                        "Internado en Salud Comunitaria",
+                        "Pensamiento Contemporáneo y Ética Cristiana"
+                    ]
+                }
+            ],
+            "footer": {
+                "desc": "Te invito estudiar Enfermería con nosotros, una Carrera que te brindará enorme satisfacción profesional y personal, en la que tendrás la oportunidad de crecer en forma integral, sentirte útil y capaz de aportar a la sociedad a través del mejoramiento de la salud y el bienestar de las personas. Realizaras prácticas clínicas y comunitarias desde el primer semestre, desarrollando las competencias, destrezas y habilidades, para brindar un cuidado humanizado al usuario sano o enfermo.",
+                "objetivos": [
+                    {
+                        "id": 1,
+                        "obj": "Formar profesionales de enfermería competentes, que sean creativos y emprendedores con bases científicas, humanísticas, metodológicas y tecnológicas, que desarrollen funciones de atención, investigación, educación y gestión con vocación de servicio con un alto compromiso social, ético y de servicio que le permita proveer cuidados de enfermería seguro y de calidad, a las personas, familia y comunidad."
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 11,
+        "head": {
+            "title": "Nutrición y Dietética",
+            "description": "La carrera de Nutrición y Dietética de la Universidad Adventista de Bolivia, centra su formación en un estilo de vida saludable, potenciando en nuestros estudiantes talentos, capacidades y dones de forma integral, velando por un desarrollo armonioso de la parte física, mental y espiritual. Capacitamos a nuestros estudiantes para trabajar en el área clínica, comunitaria, administrativa, investigación y docencia, con sólidos principios y valores cristianos.",
+            "cardContent": {
+                "grado": "Grado Obtenido Licenciatura",
+                "modalidad": "Modalidad Presencial",
+                "duracion": "Duración 4 años (8 semestres)",
+                "ingreso": " Ingreso Sin exámenes"
+            }
+        },
+        "body": {
+            "perfil_campo": {
+                "perfil": "Aplica la evaluación, diagnóstico y tratamiento dietoterápico nutricional con énfasis en el arte del cuidado de la alimentación saludable para conservar la salud de la persona, familia y comunidad, Contribuye en el mejoramiento de la calidad de vida y la seguridad alimentaria de las personas mediante la formulación e implementación de proyectos de desarrollo social y programas de prevención en alimentación y nutrición de acuerdo a las problemáticas de salud de nuestro país. Diseña y gestiona proyectos con altos estándares de calidad con el objetivo de garantizar la salud y satisfacción de los pacientes mostrando un espíritu de liderazgo y ética cristiana. Lleva a cabo diferentes proyectos innovadores de investigación y desarrollo tecnológico en el marco de la nutrición, contribuyendo en el mejoramiento de la problemática alimentaria-nutricional del actual contexto de salud del país. Promueve la salud y bienestar de las personas a partir de la formulación de programas y planes de alimentación, nutricionalmente equilibrados y seguros.",
+                "campo": "Nutrición Clínica: Establecimientos de Salud de primer, de segundo y tercer nivel de atención del sistema público de salud Nutrición Comunitaria: Instituciones y organismos de gestión en salud: Ministerio de Salud, Servicios Departamental de Salud (SEDES)Nutrición y Alimentación Hotelera: Hoteles, casas de descanso de adultos mayores., restaurantes campestres, centros de esparcimiento. Gerencia de Servicios de Alimentación: servicios de alimentación de hospitales, clínicas, universidades. Docencia: universidades, institutos superiores"
+            },
+            "plan_de_estudios": [
+                {
+                    "numSemestre": "Primer Semestre",
+                    "materias": [
+                        "Nutrición Básica I",
+                        "Técnicas Dietéticas I",
+                        "Química General y Orgánica",
+                        "Anatomía Humana",
+                        "Quechua",
+                        "Metodología del Trabajo Científico",
+                        "Introducción General a la Biblia"
+                    ]
+                },
+                {
+                    "numSemestre": "Segundo Semestre",
+                    "materias": [
+                        "Nutrición Básica II",
+                        "Técnicas Dietéticas II",
+                        "Nutrición Aplicada",
+                        "Bioquímica",
+                        "Biología y Genética",
+                        "Psicología de la Nutrición",
+                        "Inglés",
+                        "Liderazgo y Comunidad"
+                    ]
+                },
+                {
+                    "numSemestre": "Tercer Semestre",
+                    "materias": [
+                        "Dietoterapia del Adulto",
+                        "Farmacología y Nutrición",
+                        "Bromatología",
+                        "Microbiología y Parasitología",
+                        "Fisiología y Fisiopatología",
+                        "Socioantropología del Alimento",
+                        "Creencias Cristianas"
+                    ]
+                },
+                {
+                    "numSemestre": "Cuarto Semestre",
+                    "materias": [
+                        "Tratamiento Nutricional Especializado del Adulto",
+                        "Vida Saludable",
+                        "Nutrición en el Deporte",
+                        "Inmunohematología",
+                        "Nutrición Vegetariana",
+                        "Gastronomía",
+                        "Educación en Nutrición",
+                        "Bioestadística"
+                    ]
+                },
+                {
+                    "numSemestre": "Quinto Semestre",
+                    "materias": [
+                        "Dietoterapia del Niño y el Adolescente",
+                        "Economía Política y Seguridad Alimentaria",
+                        "Fundamentos de la Familia y la Sociedad",
+                        "Nutrición Comunitaria I",
+                        "Administración Empresarial en Nutrición",
+                        "Tecnología de Alimentos",
+                        "Epidemiología"
+                    ]
+                },
+                {
+                    "numSemestre": "Sexto Semestre",
+                    "materias": [
+                        "Tratamiento Nutricional Especializado Pediátrico",
+                        "Ciencia y Biblia",
+                        "Administración de Servicios de Nutrición",
+                        "Investigación I",
+                        "Diseño de Proyectos y Programas",
+                        "Nutrición Comunitaria II"
+                    ]
+                },
+                {
+                    "numSemestre": "Séptimo Semestre",
+                    "materias": [
+                        "Internado Clínico Hospitalario",
+                        "Internado en Administración de Servicios de Nutrición",
+                        "Perspectiva Bíblica de la Historia",
+                        "Investigación II"
+                    ]
+                },
+                {
+                    "numSemestre": "Octavo Semestre",
+                    "materias": [
+                        "Internado en Nutrición Comunitaria",
+                        "Trabajo de Grado",
+                        "Orientación para el Desempeño Profesional"
+                    ]
+                }
+            ],
+            "footer": {
+                "desc": "Te invito a ser parte de nuestra Carrera de Nutrición y Dietética que cuenta con un proyecto educativo integral, que te formará con las mejores herramientas para tener una carrera profesional plena y productiva, siempre ligada a la vocación de servicio y a una formación ética basada en valores cristianos. Nuestro compromiso es que serás parte de una carrera que te dará la posibilidad de desarrollarte con excelencia, en múltiples áreas del ámbito de la nutrición y la dietética, formándote como un profesional integral capaz de enfrentar cualquier desafío laboral, con la ayuda de Dios.",
+                "objetivos": [
+                    {
+                        "id": 1,
+                        "obj": "Formar profesionales Nutricionistas con valores, con amplios conocimientos nutricionales y alimenticios de la persona, familia y comunidad, fundamentados en la ciencia y la tecnología, con el propósito de enriquecer la salud y nutrición de la sociedad respetando la diversidad cultural y ambiental desde el ámbito del nutricionista."
+                    },
+                    {
+                        "id": 2,
+                        "obj": "Promover el desarrollo del pensamiento crítico mediante la realización de investigaciones científicas en el campo de la nutrición y los alimentos."
+                    },
+                    {
+                        "id": 3,
+                        "obj": "Aportar en el mejoramiento del estado nutricional de la persona, familia y comunidad implementando programas de promoción de la salud y prevención de enfermedades a través de acciones de Interacción Social."
+                    },
+                    {
+                        "id": 4,
+                        "obj": "Formar integralmente a los estudiantes incentivando en ellos la vivencia diaria de principios y valores cristianos para un mejor desempeño ético profesional."
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 12,
+        "head": {
+            "title": "Fisioterapia y Kinesiología",
+            "description": "La carrera de fisioterapia y kinesiología es una carrera líder en el mercado. Brinda una formación académica de excelencia gracias a un selecto plantel docente de gran trayectoria profesional, calidad humana y altos valores. Contamos con convenios interinstitucionales, tanto de la empresa privada como de la pública, que permite a nuestros estudiantes un óptimo desarrollo de las habilidades y destrezas que se van adquiriendo durante la formación académica, además de programas de intercambio estudiantil a diferentes países.",
+            "cardContent": {
+                "grado": "Grado Obtenido Licenciatura",
+                "modalidad": "Modalidad Presencial",
+                "duracion": "Duración 4 años (8 semestres)",
+                "ingreso": " Ingreso Sin exámenes"
+            }
+        },
+        "body": {
+            "perfil_campo": {
+                "perfil": "El perfil profesional del fisioterapeuta- kinesiólogo está orientado a la promoción, prevención, tratamiento y rehabilitación en salud, así como también de administración, educación e investigación relacionados con el cuidado de la condición fisiocinetica de las personas.",
+                "campo": "El campo laboral de los Fisioterapeutas Kinesiólogos es amplio, y contempla el trabajo en centros clínicos como hospitales, centros de salud familiar, centros ambulatorios, centros deportivos, centros especializados en el área Geriátrica, Traumatológica, Neurológica, Unidad de Terapia Intensiva, Pediátrica, geriátricos, Dermatofuncionales y empresas que se interesen en el cuidado ergonómico de sus empleados entre otros. Además, por la diversificación del campo laboral, los kinesiólogos se desempeñan en áreas de gestión, docencia e investigación."
+            },
+            "plan_de_estudios": [
+                {
+                    "numSemestre": "Primer Semestre",
+                    "materias": [
+                        "Anatomía del Aparato Locomotor",
+                        "Histología",
+                        "Soporte Básico de Vida",
+                        "Nutrición",
+                        "Fundamentos de Fisioterapia y Kinesiología",
+                        "Quechua",
+                        "Metodología del Trabajo Científico",
+                        "Introducción General a la Biblia"
+                    ]
+                },
+                {
+                    "numSemestre": "Segundo Semestre",
+                    "materias": [
+                        "Neuroanatomía Funcional",
+                        "Morfología Funcional por Sistemas",
+                        "Semiopatología Médico Kinésico",
+                        "Psicología Clínica",
+                        "Biomecánica",
+                        "Agentes Físicos",
+                        "Inglés",
+                        "Liderazgo y Comunidad"
+                    ]
+                },
+                {
+                    "numSemestre": "Tercer Semestre",
+                    "materias": [
+                        "Patología Clínica",
+                        "Anatomía Kinésica Funcional",
+                        "Kinesiología",
+                        "Fisiología del Ejercicio",
+                        "Técnicas de Masoterapia",
+                        "Neuropsicomotricidad",
+                        "Ergonomía y Fisioterapia Preventiva",
+                        "Creencias Cristianas"
+                    ]
+                },
+                {
+                    "numSemestre": "Cuarto Semestre",
+                    "materias": [
+                        "Traumatología",
+                        "Kinesiología Deportiva",
+                        "Exploración Cinético Funcional",
+                        "Neurokinesioterapia I",
+                        "Electroterapia Aplicada I",
+                        "Medios de Diagnóstico",
+                        "Bioestadística",
+                        "Vida Saludable"
+                    ]
+                },
+                {
+                    "numSemestre": "Quinto Semestre",
+                    "materias": [
+                        "Fisioterapia Traumatológica",
+                        "Recursos Biomecánicos",
+                        "Terapia Manual I",
+                        "Neurokinesioterapia II",
+                        "Fisioterapia Comunitaria y RBC",
+                        "Práctica Clínica Kinésica I",
+                        "Electroterapia Aplicada II",
+                        "Fundamentos de la Familia y Sociedad"
+                    ]
+                },
+                {
+                    "numSemestre": "Sexto Semestre",
+                    "materias": [
+                        "Farmacología Aplicada",
+                        "Terapia Manual II",
+                        "Fisioterapia Respiratoria",
+                        "Reumatología y Geriatría",
+                        "Fisioterapia Dermatofuncional",
+                        "Práctica Clínica Kinésica II",
+                        "Investigación I",
+                        "Ciencia y Biblia"
+                    ]
+                },
+                {
+                    "numSemestre": "Séptimo Semestre",
+                    "materias": [
+                        "Terapia Ocupacional",
+                        "Fisioterapia Hospitalaria",
+                        "Fisioterapia Geriátrica",
+                        "Administración y Gestión en Salud",
+                        "Ética y Medicina Legal",
+                        "Práctica Clínica Kinésica III",
+                        "Investigación II",
+                        "Perspectiva Bíblica de la Historia"
+                    ]
+                },
+                {
+                    "numSemestre": "Octavo Semestre",
+                    "materias": [
+                        "Trabajo de Grado",
+                        "Orientación para el Desempeño Profesional",
+                        "Práctica Preprofesional"
+                    ]
+                }
+            ],
+            "footer": {
+                "desc": "La carrera de Fisioterapia aborda la fundamentación teórica y práctica necesaria para comprender el movimiento corporal, su estructura y constitución. Su campo laboral esta en la prevencion, el tratameinto y la rehabilitacion de pacientes con diferentes transtornos. Si tu vocacion esta orientada a servir al projimo, eres investigador, creativo y te gusta el trabajo en equipo tu lugar esta aquí. ¡Ven que esperas para pertenecer a la familia UAB!",
+                "objetivos": [
+                    {
+                        "id": 1,
+                        "obj": "Fomentar espacios de reflexión sobre las bases filosóficas que aporten en la apropiación y generación de conocimiento para la practica profesional."
+                    },
+                    {
+                        "id": 2,
+                        "obj": "Formar profesionales de alto nivel de conocimiento, habilidades y destrezas en la prevención, evaluación y tratamiento en pacientes con diversidad de trastornos."
+                    },
+                    {
+                        "id": 3,
+                        "obj": "Formar profesionales competentes, reflexivos, analíticos, críticos, que les permita liderar y ser capaces de trabajar en todos los niveles de gestión."
+                    },
+                    {
+                        "id": 4,
+                        "obj": "Afianzar los vínculos con los graduados mediante programas, servicios y actividades de formación y bienestar estudiantil, favoreciendo un relacionamiento permanente y alto sentido de pertenencia con la UAB."
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 13,
+        "head": {
+            "title": "Bioquímica",
+            "description": "La Bioquímica es la ciencia que estudia la base química de la vida, y como tal tiene innumerables aplicaciones en todo ámbito de la biología, y por ende, en el área de la salud humana. La carrera está programada para ocho semestres académicos (4 años). Los 3 primeros semestres están destinados a la formación básica y los siguientes a la formación especializada. La carrera culmina con el internado rotatorio, fortaleciendo los conocimientos y habilidades de los estudiantes. Durante el proceso de enseñanza el estudiante se capacita para la realización de análisis clínicos en todas sus áreas, con fines de diagnóstico, análisis de alimentos, análisis toxicológicos y otros afines a su formación, pudiendo desenvolverse en el ámbito profesional.",
+            "cardContent": {
+                "grado": "Grado Obtenido Licenciatura",
+                "modalidad": "Modalidad Presencial",
+                "duracion": "Duración 4 años (8 semestres)",
+                "ingreso": " Ingreso Sin exámenes"
+            }
+        },
+        "body": {
+            "perfil_campo": {
+                "perfil": "El profesional bioquímico egresado de la Universidad Adventista de Bolivia, estará capacitado para: Realizar análisis de laboratorio clínico, aplicando conocimientos y destrezas prácticas en bioquímica clínica, inmunología, hematología, microbiología y parasitología; coadyuvando con el diagnóstico de enfermedades. Ejecutar controles de calidad en laboratorio clínico. Realizar análisis de control de calidad de alimentos y agua, contribuyendo con la garantía en el expendio de los mismos.Demostrar eficiencia y eficacia en la aplicación de técnicas de laboratorio, brindando una atención de calidad al solicitante. Conformar equipos de investigación pura y aplicada dentro de las áreas de su conocimiento. Practicar un estilo de vida que demuestre el desarrollo integral de la persona y un espíritu de servicio a los demás. Impactar positivamente el entorno social mediante el mejoramiento de la calidad de vida de las personas, a través del control epidemiológico e investigación aplicada.",
+                "campo": "Laboratorio de Análisis Clínicos, tanto de Centros Hospitalarios como privados, según sus áreas. Laboratorio de Biología molecular. Laboratorio de Investigación en el área de salud Laboratorio de alimentos Laboratorio toxicológico Gestión de calidad en laboratorio clínico Otras áreas afines, relacionadas a la química, biología y biotecnología. Conformación del equipo de salud. Conformación de equipos de investigación."
+            },
+            "plan_de_estudios": [
+                {
+                    "numSemestre": "Primer Semestre",
+                    "materias": [
+                        "Química General e Inorgánica",
+                        "Biología",
+                        "Histología",
+                        "Matemática Aplicada",
+                        "Quechua",
+                        "Metodología del Trabajo Científico",
+                        "Fundamentos del Cristianismo"
+                    ]
+                },
+                {
+                    "numSemestre": "Segundo Semestre",
+                    "materias": [
+                        "Química Orgánica I",
+                        "Fisicoquímica",
+                        "Química Analítica",
+                        "Anatomía Humana",
+                        "Inglés",
+                        "Liderazgo y Comunidad"
+                    ]
+                },
+                {
+                    "numSemestre": "Tercer Semestre",
+                    "materias": [
+                        "Bioquímica Descriptiva",
+                        "Química Orgánica II",
+                        "Microbiología General",
+                        "Micología",
+                        "Fisiología",
+                        "Análisis Instrumental",
+                        "Genética",
+                        "Antropología Cristiana"
+                    ]
+                },
+                {
+                    "numSemestre": "Cuarto Semestre",
+                    "materias": [
+                        "Bioquímica Metabólica",
+                        "Farmacología",
+                        "Microbiología Clínica",
+                        "Parasitología",
+                        "Práctica de Laboratorio I",
+                        "Estadística",
+                        "Vida Saludable"
+                    ]
+                },
+                {
+                    "numSemestre": "Quinto Semestre",
+                    "materias": [
+                        "Bioquímica Clínica I",
+                        "Inmunología I",
+                        "Hematología I",
+                        "Patología",
+                        "Práctica de Laboratorio II",
+                        "Bromatología I",
+                        "Epidemiología Aplicada",
+                        "Fundamentos de la Familia y Sociedad"
+                    ]
+                },
+                {
+                    "numSemestre": "Sexto Semestre",
+                    "materias": [
+                        "Bioquímica Clínica II",
+                        "Inmunología II",
+                        "Hematología II",
+                        "Virología",
+                        "Práctica de Laboratorio III",
+                        "Bromatología II",
+                        "Investigación I",
+                        "Ciencia y Biblia"
+                    ]
+                },
+                {
+                    "numSemestre": "Séptimo Semestre",
+                    "materias": [
+                        "Regulación del Metabolismo",
+                        "Toxicología",
+                        "Práctica de Laboratorio IV",
+                        "Biología Molecular y Biotecnología",
+                        "Microbiología Industrial",
+                        "Administración y Gestión de la Calidad en Laboratorio",
+                        "Investigación II",
+                        "Trabajo de Grado",
+                        "Perspectiva Bíblica de la Historia"
+                    ]
+                },
+                {
+                    "numSemestre": "Octavo Semestre",
+                    "materias": [
+                        "Orientación para el Desempeño Profesional",
+                        "Trabajo de Grado",
+                        "Internado Hospitalario"
+                    ]
+                }
+            ],
+            "footer": {
+                "desc": "Estimado estudiante: Es para mi muy grato expresarme para darte una cordial bienvenida a esta carrera, en calidad de directora de la Carrera de Bioquímica y en nombre de quienes hacen posible la formación de profesionales bioquímicos en la UAB.. Desde este ámbito del conocimiento te ofrecemos una carrera científica, cuya meta es la atención de salud a través de la atención del laboratorio. Podrás desarrollar habilidades en procedimientos especiales, con instrumentos propios del laboratorio y con una sólida base científica, que a futuro te permitirán trabajar realizando análisis clínicos en laboratorios especializados, investigación y análisis de alimentos, así como otros laboratorios relacionados al área. Por otra parte, tendrás la oportunidad de hacer prácticas en laboratorios reales e interactuar con los profesionales que se encuentran trabajando en los mismos. De esta manera, a momento de egresar contarás con una formación completa, que facilitará tu inserción laboral. La UAB te dará además una formación en valores ético-cristianos, que son muy necesarios en el trabajo profesional del bioquímico. Deseo que Dios te bendiga y con las fuerzas que Él te dará, puedas llegar a ser excelente profesional al servicio de Dios y la sociedad. Recibe un cordial saludo",
+                "objetivos": [
+                    {
+                        "id": 1,
+                        "obj": "Formar Licenciados en Bioquímica, idóneos con alto nivel de competitividad y gran sentido ético, con espíritu solidario que contribuya en la preservación de la salud de la población en los ámbitos de Laboratorio de análisis clínicos, análisis de alimentos e investigación; y de esta manera contribuir en una atención oportuna a la población desde el área profesional."
+                    },
+                    {
+                        "id": 2,
+                        "obj": "Capacitar a los estudiantes en conocimientos, destrezas y habilidades prácticas dirigidas al laboratorio de análisis clínicos y toxicológicos con fines diagnósticos y de investigación."
+                    },
+                    {
+                        "id": 3,
+                        "obj": "Desarrollar en los estudiantes aptitudes y habilidades para desenvolverse en un equipo multidisciplinario e intervenir en los programas de vigilancia y control epidemiológico."
+                    },
+                    {
+                        "id": 4,
+                        "obj": "Inculcar valores éticos y principios cristianos que contribuyan en la preservación de la salud de la sociedad en los aspectos físicos, intelectual y espiritual."
+                    }
+                ]
+            }
+        }
+    },
+    {
+        "id": 14,
+        "head": {
+            "title": "Teología",
+            "description": "La carrera de Teología de la Universidad Adventista de Bolivia, tiene como objetivo formar profesionales con una sólida formación teológica, con una visión crítica y reflexiva de la realidad, con una actitud de servicio y compromiso con la sociedad, con una formación integral, con una visión de la realidad, con una actitud de servicio y compromiso con la sociedad, con una formación integral, con una visión de la realidad, con una actitud de servicio y compromiso con la sociedad, con una formación integral, con una visión de la realidad, con una actitud de servicio y compromiso con la sociedad, con una formación integral, con una visión de la realidad, con una actitud de servicio y compromiso con la sociedad, con una formación integral, con una visión de la realidad, con una actitud de servicio y compromiso con la sociedad, con una formación integral, con una visión de la realidad, con una actitud de servicio y compromiso con la sociedad, con una formación integral, con una visión de la realidad, con una actitud de servicio y compromiso con la sociedad, con una formación integral, con una visión de la realidad, con una actitud de servicio y compromiso con la sociedad, con una formación integral, con una visión de la realidad, con una actitud de servicio y compromiso con la sociedad.",
+            "cardContent": {
+                "grado": "Grado Obtenido Licenciatura",
+                "modalidad": "Modalidad Presencial",
+                "duracion": "Duración 4 años (8 semestres)",
+                "ingreso": "Ingreso con examen de ingreso"
+            }
+        },
+        "body": {
+            "perfil_campo": {
+                "perfil": "El profesional estará capacitado para: Proclamar el mensaje cristiano contenido en las Sagradas Escrituras a través de la evangelización personal y pública. Desempeñar funciones de pastor y administrador eclesiástico. Desempeñar funciones de capellanía y consejería en instituciones educativas, de salud y bienestar social. Redactar y editar publicaciones religiosas mediante una sólida formación académica. Realizar investigaciones en el área bíblica, teológico-histórica y pastoral, haciendo uso de los procedimientos metodológicos científicos adquiridos durante su formación académica.",
+                "campo": "Mucho campo profesioal"
+            },
+            "plan_de_estudios": [
+                {
+                    "numSemestre": "Primer Semestre",
+                    "materias": [
+                        "Introducción a las Sagradas Escrituras",
+                        "Historia de la Iglesia Adventista",
+                        "Introducción a la Filosofía",
+                        "Lenguaje y Liturgia Musical",
+                        "Liderazgo Juvenil Misionero",
+                        "Lengua Española",
+                        "Metodología del Trabajo Científico",
+                        "Fundamentos de Psicología"
+                    ]
+                },
+                {
+                    "numSemestre": "Segundo Semestre",
+                    "materias": [
+                        "Pentateuco",
+                        "Hebreo I",
+                        "Doctrinas Bíblicas",
+                        "Filosofía de la Educación Cristiana",
+                        "Práctica en Publicaciones y Obra Social",
+                        "Principios del Aprendizaje",
+                        "Idioma Nativo"
+                    ]
+                },
+                {
+                    "numSemestre": "Tercer Semestre",
+                    "materias": [
+                        "Libros Históricos y Poéticos",
+                        "Hebreo II",
+                        "Interpretación Bíblica",
+                        "Teología del Hogar",
+                        "Principios de Vida Saludable",
+                        "Práctica en Evangelismo Personal",
+                        "Inglés I",
+                        "Estadística"
+                    ]
+                },
+                {
+                    "numSemestre": "Cuarto Semestre",
+                    "materias": [
+                        "Libros Proféticos",
+                        "Griego I",
+                        "Orientación Profética",
+                        "Homilética y Oratoria",
+                        "Planificación y Gestión de Proyecto Comunitario",
+                        "Práctica de Ministerio Integrado",
+                        "Inglés II",
+                        "Psicología Familiar"
+                    ]
+                },
+                {
+                    "numSemestre": "Quinto Semestre",
+                    "materias": [
+                        "Daniel",
+                        "Griego II",
+                        "Historia Eclesiástica",
+                        "Ciencia y Biblia",
+                        "Principios y Métodos de Crecimiento Eclesial",
+                        "Contabilidad Denominacional",
+                        "Práctica en Mayordomía"
+                    ]
+                },
+                {
+                    "numSemestre": "Sexto Semestre",
+                    "materias": [
+                        "Apocalipsis",
+                        "Griego e Historia Textual",
+                        "Ética Cristiana y Problemáticas Sociales",
+                        "Didáctica",
+                        "Consejería y Atención Pastoral",
+                        "Evagelismo Público",
+                        "Investigación I"
+                    ]
+                },
+                {
+                    "numSemestre": "Séptimo Semestre",
+                    "materias": [
+                        "Evangelios",
+                        "Doctrina Bíblica del Santuario",
+                        "Teología Sistemática",
+                        "Corrientes Religiosas y Contemporáneas",
+                        "Liderazgo y Administración Eclesiástica",
+                        "Práctica en Capellanía",
+                        "Investigación II"
+                    ]
+                },
+                {
+                    "numSemestre": "Octavo Semestre",
+                    "materias": [
+                        "Hechos y Epístolas",
+                        "Tecnologías de Información Aplicadas al Ministerio",
+                        "Trabajo de Grado",
+                        "Adoración y Ritos",
+                        "Práctica en Administración de Iglesia"
+                    ]
+                }
+            ],
+            "footer": {
+                "desc": "",
+                "objetivos": [
+                    {
+                        "id": 1,
+                        "obj": "Ser los mejores en la formación de profesionales en el área de la teología, con un alto nivel académico, ético y moral, que les permita desarrollar su ministerio con excelencia y calidad."
+                    }
+                ]
+            }
+        }
+    }
+]

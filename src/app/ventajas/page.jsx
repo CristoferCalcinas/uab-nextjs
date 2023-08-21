@@ -8,8 +8,6 @@ import imageVenta6 from "@/images/imagesVentas/imageVenta6.jpg";
 import imageVenta7 from "@/images/imagesVentas/imageVenta7.jpg";
 import imageVenta8 from "@/images/imagesVentas/imageVenta8.jpg";
 import "animate.css";
-import Link from "next/link";
-import { ButtonMain } from "../../layouts/ButtonMain";
 import SideBar from "@/components/Sidebar/SideBar";
 
 export const features = [
@@ -95,20 +93,20 @@ export default function Ventajas() {
               {features.map((feature) => (
                 <div
                   key={feature.id}
-                  className="flex flex-col-reverse lg:grid lg:grid-cols-12 lg:items-center lg:gap-x-8 animate__animated animate__fadeInLeftBig"
+                  className="flex flex-col-reverse rounded-xl p-3 lg:grid lg:grid-cols-12 lg:items-center lg:gap-x-8 animate__animated animate__fadeInLeftBig group hover:bg-slate-600"
                 >
                   <div className="mt-6 lg:col-span-5 lg:mt-0 xl:col-span-4 space-y-5">
-                    <h3 className="text-3xl font-black text-gray-900">
+                    <h3 className="text-3xl font-black text-gray-900 group-hover:text-cyan-100">
                       {feature.name}
                     </h3>
-                    <p className="mt-2 text-lg text-gray-500">
+                    <p className="mt-2 text-lg text-gray-500 group-hover:text-cyan-100">
                       {feature.description}
                     </p>
                   </div>
                   <div className="flex-auto lg:col-span-7 xl:col-span-8">
                     <div className="aspect-h-2 aspect-w-5 overflow-hidden rounded-lg bg-gray-100">
                       <Image
-                        className="object-cover object-center hover:scale-125 hover:transition"
+                        className="object-cover object-center hover:scale-125 hover:transition-all duration-500 ease-in-out"
                         src={feature.imageSrc}
                         alt={feature.imageAlt}
                       />
