@@ -50,27 +50,30 @@ export default function HomePage() {
           </div>
 
           <div className="group aspect-h-1 aspect-w-2 overflow-hidden rounded-lg sm:aspect-none sm:relative sm:h-full animate__animated animate__fadeInDown">
-            <Image
-              className="object-cover object-center group-hover:opacity-75 sm:absolute sm:inset-0 h-full w-full"
-              alt="Wooden shelf with gray and olive drab green baseball caps, next to wooden clothes hanger with sweaters."
-              src={image2}
-              priority
-            />
-            <div
-              aria-hidden="true"
-              className="bg-gradient-to-b from-transparent to-black opacity-50 sm:absolute sm:inset-0"
-            />
-            <div className="flex items-end p-6 sm:absolute sm:inset-0">
-              <div>
-                <h3 className="font-semibold text-white">
-                  <span className="absolute inset-0" />
-                  Postgrado
-                </h3>
-                <p aria-hidden="true" className="mt-1 text-sm text-white">
-                  Maestrias - Diplomados
-                </p>
+            <Link href={"/postgrado"}>
+              <Image
+                className="object-cover object-center group-hover:opacity-75 sm:absolute sm:inset-0 h-full w-full"
+                alt="Wooden shelf with gray and olive drab green baseball caps, next to wooden clothes hanger with sweaters."
+                src={image2}
+                priority
+              />
+              <div
+                aria-hidden="true"
+                className="bg-gradient-to-b from-transparent to-black opacity-50 sm:absolute sm:inset-0"
+              />
+
+              <div className="flex items-end p-6 sm:absolute sm:inset-0">
+                <div>
+                  <h3 className="font-semibold text-white">
+                    <span className="absolute inset-0" />
+                    Postgrado
+                  </h3>
+                  <p aria-hidden="true" className="mt-1 text-sm text-white">
+                    Maestrias - Diplomados
+                  </p>
+                </div>
               </div>
-            </div>
+            </Link>
           </div>
 
           <div className="group aspect-h-1 aspect-w-2 overflow-hidden rounded-lg sm:aspect-none sm:relative sm:h-full animate__animated animate__fadeInUp">
@@ -87,10 +90,10 @@ export default function HomePage() {
             <div className="flex items-end p-6 sm:absolute sm:inset-0">
               <div>
                 <h3 className="font-semibold text-white">
-                  <a href="#">
+                  <Link href={"https://ueab.educacionadventista.com/"}>
                     <span className="absolute inset-0" />
                     Colegio
-                  </a>
+                  </Link>
                 </h3>
                 <p aria-hidden="true" className="mt-1 text-sm text-white">
                   Inicial - Primaria - Secundaria

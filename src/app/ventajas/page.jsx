@@ -83,7 +83,7 @@ export default function Ventajas() {
       <div className="bg-white rounded-xl">
         <div className="mx-auto max-w-7xl py-5 sm:px-2 sm:py-16 lg:px-4">
           <div className="mx-auto max-w-2xl px-4 lg:max-w-none">
-            <div className="max-w-3xl">
+            <div className="max-w-3xl text-center">
               <h2 className="mt-2 text-3xl font-bold tracking-tight text-gray-900 sm:text-4xl">
                 Ventajas
               </h2>
