@@ -1,5 +1,5 @@
 "use client";
-import "animate.css"
+import "animate.css";
 import Image from "next/image";
 import LogoUAB from "@/images/LogoUAB.png";
 import Logo_A from "@/images/Logo_A.png";
@@ -32,7 +32,7 @@ const navigation = [
     name: "UAB",
     href: "/uab",
     icon: HomeIcon,
-    current: true,
+    current: false,
   },
   {
     id: 2,
@@ -126,7 +126,6 @@ const navigation = [
     current: false,
   },
 ];
-
 
 function classNames(...classes) {
   return classes.filter(Boolean).join(" ");
@@ -227,7 +226,6 @@ export default function SideBar({ children }) {
                             ))}
                           </ul>
                         </li>
-                       
                       </ul>
                     </nav>
                   </div>
