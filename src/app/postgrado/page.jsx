@@ -1,5 +1,4 @@
 import LayoutCards from "@/components/LayoutCard/LayoutCards";
-import SideBar from "@/components/Sidebar/SideBar";
 import imageLeterD from "@/images/imagesLetras/D.jpg";
 import imageLeterM from "@/images/imagesLetras/M.jpg";
 
@@ -43,11 +42,11 @@ export const postgrado = [
 
 export default function Postgrado() {
   return (
-    <SideBar>
+    <div>
       <div className="p-7 text-center">
         <h2 className="text-4xl font-bold text-white">Postgrado UAB</h2>
       </div>
       <LayoutCards layoutInfo={postgrado} />
-    </SideBar>
+    </div>
   );
 }

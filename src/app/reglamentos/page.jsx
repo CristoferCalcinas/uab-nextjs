@@ -1,5 +1,5 @@
 import { ReglamentoItems } from "@/components/Reglamento/ReglamentoItems";
-import SideBar from "@/components/Sidebar/SideBar";
+
 export const reglamentos = [
   "Reglamento de Autoevaluacion",
   "Reglamento Administrativo",
@@ -12,9 +12,5 @@ export const reglamentos = [
 ];
 
 export default function Reglamentos() {
-  return (
-    <SideBar>
-      <ReglamentoItems reglamento={reglamentos} />
-    </SideBar>
-  );
+  return <ReglamentoItems reglamento={reglamentos} />;
 }

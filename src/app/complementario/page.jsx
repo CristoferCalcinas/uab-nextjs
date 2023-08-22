@@ -1,5 +1,4 @@
 import LayoutCards from "@/components/LayoutCard/LayoutCards";
-import SideBar from "@/components/Sidebar/SideBar";
 import imageLeterC from "@/images/imagesLetras/C.jpg";
 export const complementarioInfo = [
   {
@@ -29,11 +28,11 @@ export const complementarioInfo = [
 ];
 export default function Complementario() {
   return (
-    <SideBar>
+    <div>
       <div className="p-7 text-center">
         <h2 className="text-4xl font-bold text-white">Complementario UAB</h2>
       </div>
       <LayoutCards layoutInfo={complementarioInfo} />
-    </SideBar>
+    </div>
   );
 }

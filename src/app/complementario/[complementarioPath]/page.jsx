@@ -1,8 +1,8 @@
 export default function ComplementarioPath({ params }) {
   console.log(params);
   return (
-    <SideBar>
+    <div>
       <h1>{params}</h1>
-    </SideBar>
+    </div>
   );
 }

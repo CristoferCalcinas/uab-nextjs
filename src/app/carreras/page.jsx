@@ -1,5 +1,4 @@
 import { CarreraItem } from "@/components/Carreras/CarreraItem";
-import SideBar from "@/components/Sidebar/SideBar";
 import imageCarrera1 from "@/images/imagesCarreras/imageCarrera_1.jpg";
 import imageCarrera2 from "@/images/imagesCarreras/imageCarrera_2.jpg";
 import imageCarrera3 from "@/images/imagesCarreras/imageCarrera_3.jpg";
@@ -103,29 +102,27 @@ export const carreras = [
 
 export default function Carreras() {
   return (
-    <SideBar>
-      <section className="">
-        <div className="container px-5 py-8 mx-auto space-y-7">
-          <div className="flex flex-col text-center w-full">
-            <h2 className="text-5xl title-font text-white font-bold">
-              Carreras a nivel Licenciatura
-            </h2>
-          </div>
-
-          <div className="flex flex-wrap justify-center -m-4">
-            {carreras?.map(({ id, title, duracion, img }) => {
-              return (
-                <CarreraItem
-                  key={id}
-                  title={title}
-                  duracion={duracion}
-                  img={img}
-                />
-              );
-            })}
-          </div>
+    <section className="">
+      <div className="container px-5 py-8 mx-auto space-y-7">
+        <div className="flex flex-col text-center w-full">
+          <h2 className="text-5xl title-font text-white font-bold">
+            Carreras a nivel Licenciatura
+          </h2>
         </div>
-      </section>
-    </SideBar>
+
+        <div className="flex flex-wrap justify-center -m-4">
+          {carreras?.map(({ id, title, duracion, img }) => {
+            return (
+              <CarreraItem
+                key={id}
+                title={title}
+                duracion={duracion}
+                img={img}
+              />
+            );
+          })}
+        </div>
+      </div>
+    </section>
   );
 }

@@ -8,7 +8,6 @@ import imageVenta6 from "@/images/imagesVentas/imageVenta6.jpg";
 import imageVenta7 from "@/images/imagesVentas/imageVenta7.jpg";
 import imageVenta8 from "@/images/imagesVentas/imageVenta8.jpg";
 import "animate.css";
-import SideBar from "@/components/Sidebar/SideBar";
 
 export const features = [
   {
@@ -79,7 +78,7 @@ export const features = [
 
 export default function Ventajas() {
   return (
-    <SideBar>
+    <div>
       <div className="bg-white rounded-xl">
         <div className="mx-auto max-w-7xl py-5 sm:px-2 sm:py-16 lg:px-4">
           <div className="mx-auto max-w-2xl px-4 lg:max-w-none">
@@ -118,6 +117,6 @@ export default function Ventajas() {
           </div>
         </div>
       </div>
-    </SideBar>
+    </div>
   );
 }

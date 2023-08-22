@@ -1,4 +1,3 @@
-import Link from "next/link";
 import Image from "next/image";
 import robotica from "@/images/GaleryImages/robotica.jpg";
 import administracion_de_empresas from "@/images/GaleryImages/administracion_de_empresas.jpg";
@@ -67,7 +66,6 @@ export default function Galery() {
     <div className="bg-gray-900">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
         <div className="mx-auto max-w-2xl py-10 sm:py-14 lg:max-w-none lg:py-14">
-          
           <ButtonMain />
 
           <h2 className="text-2xl font-bold text-slate-400">

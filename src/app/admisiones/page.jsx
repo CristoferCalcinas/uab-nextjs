@@ -1,5 +1,4 @@
 import { AdmisionesPageCard } from "@/components/Admisiones/AdmisionesPageCard";
-import SideBar from "@/components/Sidebar/SideBar";
 export const admisiones = [
   {
     id: 1,
@@ -40,9 +39,5 @@ export const admisiones = [
 ];
 
 export default function Admisiones() {
-  return (
-    <SideBar>
-      <AdmisionesPageCard admisiones={admisiones} />
-    </SideBar>
-  );
+  return <AdmisionesPageCard admisiones={admisiones} />;
 }

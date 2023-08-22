@@ -1,5 +1,4 @@
 import { ExtensionSocialPageCard } from "@/components/ExtensionSocial/ExtensionSocialPageCard";
-import SideBar from "@/components/Sidebar/SideBar";
 export const extensionSocial = [
   {
     id: 1,
@@ -30,9 +29,5 @@ export const extensionSocial = [
   },
 ];
 export default function ExtensionSocial() {
-  return (
-    <SideBar>
-      <ExtensionSocialPageCard extensionSocial={extensionSocial} />
-    </SideBar>
-  );
+  return <ExtensionSocialPageCard extensionSocial={extensionSocial} />;
 }

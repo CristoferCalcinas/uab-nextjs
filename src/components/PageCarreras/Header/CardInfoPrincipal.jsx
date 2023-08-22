@@ -1,3 +1,9 @@
+import {
+  AcademicCapIcon,
+  ClockIcon,
+  BookOpenIcon,
+  UserCircleIcon,
+} from "@heroicons/react/24/solid";
 export const CardInfoPrincipal = ({ cardContent }) => {
   const { duracion, grado, ingreso, modalidad } = cardContent;
   return (
@@ -9,11 +15,23 @@ export const CardInfoPrincipal = ({ cardContent }) => {
           </h2>
         </div>
         <div className="flex flex-col items-center justify-center my-10">
-          <ul className="space-y-5">
-            <li className="border-b-2">{grado}</li>
-            <li className="border-b-2">{modalidad}</li>
-            <li className="border-b-2">{duracion}</li>
-            <li className="border-b-2">{ingreso}</li>
+          <ul className="space-y-5 text-sm font-semibold">
+            <li className="border-b-2 border-b-slate-400 flex items-center">
+              <AcademicCapIcon className="inline-block w-5 h-5 mr-2 text-[#003264]" />
+              {grado}
+            </li>
+            <li className="border-b-2 border-b-slate-400 flex items-center">
+              <UserCircleIcon className="inline-block w-5 h-5 mr-2 text-[#003264]" />
+              {modalidad}
+            </li>
+            <li className="border-b-2 border-b-slate-400 flex items-center">
+              <ClockIcon className="inline-block w-5 h-5 mr-2 text-[#003264]" />
+              {duracion}
+            </li>
+            <li className="border-b-2 border-b-slate-400 flex items-center">
+              <BookOpenIcon className="inline-block w-5 h-5 mr-2 text-[#003264]" />
+              {ingreso}
+            </li>
           </ul>
           <div className="bg-[#6EC1E4] p-2 mt-5">
             <button className="text-white font-bold">Contáctanos</button>
