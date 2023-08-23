@@ -1,0 +1,133 @@
+[
+    {
+        "id": "1",
+        "head": {
+            "title": "Administración de Empresas",
+            "description": "La Maestría en Administración de Empresas está diseñada para elevar la actividad y calidad de profesionales de las instituciones de diferente índole que se encuentran en puestos de responsabilidad. La finalidad del presente programa es fortalecer la capacidad teórica y práctica de los profesionales que se encuentran en puestos de liderazgo administrativo en temas relacionados con la gestión, alta gerencia, gerencia financiera  y gerencia de marketing. También se pretende impulsar el desarrollo de investigaciones en áreas de especialidad o interés del estudiante del programa.",
+            "cardContent": {
+                "grado": "Grado Obtenido Maestría",
+                "modalidad": " Modalidad Semi presencial",
+                "duracion": "Duración 2 años"
+            }
+        },
+        "body": {
+            "perfil_campo": {
+                "perfil": "La Maestría en Administración de Empresas se  concentra en la formación conceptual y práctica de profesionales universitarios de diversas áreas de estudio, de modo tal que éstos adquieran un perfil que va mas allá de sus formaciones específicas, permitiendo así que estén plenamente capacitados para desenvolverse en organizaciones de distinta índole, tanto en  la gestión de empresas  como en la gestión de áreas especializadas. El objeto de estudio de la Maestría en Administración es el gerenciamiento y gestión de los negocios y las organizaciones. Para ello, el programa lo  componen las áreas de estudio orientadas hacia el gerenciamiento de alto nivel, el gerenciamiento en marketing y gerenciamiento financiero. Estas áreas permitirán que el magister en Administración de Empresas esté plenamente capacitado para desenvolverse en organizaciones de distinta índole para la gestión de campos específicos como gerenciales.",
+                "campo": "El graduado de la Maestría en Educación, estará capacitado para: Dirigir diversos tipos de organizaciones en diferentes contextos, haciendo uso de sus capacidades de comunicación efectiva, liderazgo y trabajo en equipos de alto desempeño Diseñar, planificar e intervenir utilizando herramientas metodológicas de la gestión administrativa que inciden en el ámbito empresarial y fomentan el emprendimiento organizacional. Aplicar sus conocimientos y destrezas para enfrentar los cambios del entorno económico y comercial, impulsando el desarrollo empresarial. Diseñar estrategias innovadoras de marketing para organizaciones que conduzcan al logro de sus objetivos. Utilizar de forma eficiente sus habilidades para planificar, organizar, controlar, integrar, supervisar y evaluar las acciones de mejoramiento empresarial. Enfrentar los cambios que se presentan en los mercados nacionales e internacionales y responde de modo óptimo a las diferentes exigencias del entorno económico, político, social y tecnológico que enfrentan las empresas. Liderar una organización empresarial en beneficio del mejoramiento socio económico del país, con responsabilidad social y en armonía con el medio ambiente. Utilizar metodologías de investigación científica con miras a optimizar el desarrollo y el éxito de una empresa."
+            },
+            "plan_de_estudios": [
+                {
+                    "numModulo": "Diplomado en Alta Gerencia",
+                    "materias": [
+                        "Administración estratégica",
+                        "Emprendimiento e innovación empresarial",
+                        "Desarrollo y cambio organizacional",
+                        "Liderazgo y comportamiento organizacional",
+                        "Gestión del talento humano",
+                        "Gestión de producción y operaciones",
+                        "Marco legal corporativo"
+                    ]
+                },
+                {
+                    "numModulo": "Diplomado en Gerencia de Marketing",
+                    "materias": [
+                        "Marketing operativo",
+                        "Gestión de ventas",
+                        "Comercio internacional y logística",
+                        "Gestión de tecnologías y marketing digital",
+                        "Marketing estratégico",
+                        "Investigación de mercados"
+                    ]
+                },
+                {
+                    "numModulo": "Diplomado en Gerencia Financiera",
+                    "materias": [
+                        "Contabilidad para la toma de decisiones",
+                        "Gestión tributaria",
+                        "Administración financiera",
+                        "Finanzas corporativas",
+                        "Diseño y plan de negocios",
+                        "Ética y responsabilidad social"
+                    ]
+                },
+                {
+                    "numModulo": "undefined",
+                    "materias": [
+                        "Diseño de la investigación",
+                        "Taller de Tesis"
+                    ]
+                }
+            ],
+            "footer": {
+                "desc": "Descripcion del titulo que otorga la UAB una vez concluida la maestria (no se otorga título, sino un grado académico) Una vez concluido el plan de estudios, la defensa oral de la tesis y los trámites requeridos, la UAB otorga el grado académico de Maestría en Administración de Empresas, refrendado por el Ministerio de Educación del Estado Plurinacional de Bolivia.",
+                "objetivos": null
+            }
+        }
+    },
+    {
+        "id": "2",
+        "head": {
+            "title": "Educación",
+            "description": "La Maestría en Educación está diseñada para elevar la actividad y calidad de los docentes y profesionales que tengan interés en capacitarse en el ámbito de las ciencias de la educación. La finalidad del presente programa es fortalecer la capacidad teórica y práctica en temas relacionados con la problemática educativa, el diseño curricular y la administración educativa. El graduado de la Maestría en Educación estará encondiciones de desarrollar una práctica fundamentada en los aportes de la filosofía educativa que mediante el uso de estrategias de enseñanza-aprendizaje conduzcan al logro de objetivos curriculares para dinamizar el hecho educativo considerando las características propias del contexto.",
+            "cardContent": {
+                "grado": "Grado Obtenido Maestría",
+                "modalidad": " Modalidad Semi presencial",
+                "duracion": "Duración 2 años"
+            }
+        },
+        "body": {
+            "perfil_campo": {
+                "perfil": "La Maestría en Administración de Empresas se  concentra en la formación conceptual y práctica de profesionales universitarios de diversas áreas de estudio, de modo tal que éstos adquieran un perfil que va mas allá de sus formaciones específicas, permitiendo así que estén plenamente capacitados para desenvolverse en organizaciones de distinta índole, tanto en  la gestión de empresas  como en la gestión de áreas especializadas.El objeto de estudio de la Maestría en Administración es el gerenciamiento y gestión de los negocios y las organizaciones. Para ello, el programa lo  componen las áreas de estudio orientadas hacia el gerenciamiento de alto nivel, el gerenciamiento en marketing y gerenciamiento financiero. Estas áreas permitirán que el magister en Administración de Empresas esté plenamente capacitado para desenvolverse en organizaciones de distinta índole para la gestión de campos específicos como gerenciales.",
+                "campo": "El graduado de la Maestría en Educación, estará capacitado para: Utilizar los distintos aportes de la pedagogía, la didáctica y la tecnología para dinamizar el proceso de enseñanza-aprendizaje.Diseñar y gestionar un proyecto curricular orientado hacia el logro de la calidad educativa. Utilizar competencias de administración y liderazgo para direccionar una institución educativa. Dinamizar el proceso de enseñanza-aprendizaje mediante el uso de estrategias pedagógicas en bien de un aprendizaje significativo. Fundamentar y articular un proyecto educativo en base a un determinado modelo curricular. Establecer bases teóricas y legales para la administración y gestión de una institución educativa. Gestionar un proyecto curricular orientado a mejoramiento de la calidad educativa considerando las características del contexto social. Actuar en diferentes instancias educativas utilizando conocimientos y estrategias apropiadas para la solución de problemas educativos. Aplicar sus habilidades de investigación para resolver problemas educativos vigentes en el contexto social."
+            },
+            "plan_de_estudios": [
+                {
+                    "numModulo": "Diplomado en Educación Superior",
+                    "materias": [
+                        "Filosofía de la educación",
+                        "Teorías del aprendizaje",
+                        "Planificación del aprendizaje",
+                        "Estrategias y recursos didácticos",
+                        "Evaluación del aprendizaje",
+                        "Tecnología educativa",
+                        "Investigación I"
+                    ]
+                },
+                {
+                    "numModulo": "Diplomado en Diseño Curricular",
+                    "materias": [
+                        "Legislación educativa",
+                        "Análisis de la realidad educativa",
+                        "Teorías del currículo",
+                        "Diseño y desarrollo del currículo",
+                        "Gestión curricular",
+                        "Evaluación curricular",
+                        "Investigación II"
+                    ]
+                },
+                {
+                    "numModulo": "Diplomado en Administración Educativa",
+                    "materias": [
+                        "Fundamentos de la administración educativa",
+                        "Planificación estratégica",
+                        "Administración y liderazgo educativo",
+                        "Gestión del talento humano",
+                        "Gestión de las finanzas",
+                        "Evaluación de instituciones educativas",
+                        "Estadística"
+                    ]
+                },
+                {
+                    "numModulo": null,
+                    "materias": [
+                        "Taller de tesis"
+                    ]
+                }
+            ],
+            "footer": {
+                "desc": "Descripcion del titulo que otorga la UAB una vez concluida la maestria (no se otorga título, sino un grado académico)",
+                "objetivos": null
+            }
+        }
+    }
+]
