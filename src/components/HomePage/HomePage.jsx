@@ -7,15 +7,15 @@ import image3 from "@/images/MainImages/main3.jpg";
 
 export default function HomePage() {
   return (
-    <div className="bg-gradient-to-r from-green-500 to-sky-500 rounded-lg">
+    <div className="bg-[#003264] rounded-lg">
       <div className="mx-auto max-w-7xl px-4 py-8 sm:px-6 sm:py-10 lg:px-8">
         <div className="sm:flex sm:items-baseline sm:justify-between ani animate__animated animate__zoomIn">
-          <h2 className="text-3xl font-bold tracking-tight text-gray-600">
+          <h2 className="text-3xl font-bold tracking-tight text-gray-100">
             Universiad Adventista de Bolivia
           </h2>
           <Link
             href={"/galery"}
-            className="hidden text-base font-semibold text-indigo-600 hover:text-indigo-500 sm:block"
+            className="hidden text-base font-semibold text-indigo-400 hover:text-indigo-600 sm:block"
           >
             Galeria de Fotos
             <span aria-hidden="true"> &rarr;</span>

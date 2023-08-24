@@ -5,7 +5,7 @@ import {
   UserCircleIcon,
 } from "@heroicons/react/24/solid";
 export const CardInfoPrincipal = ({ cardContent }) => {
-  const { duracion, grado, ingreso, modalidad } = cardContent;
+  const { duracion, grado, ingreso, modalidad } = cardContent || {};
   return (
     <div className="">
       <div className="border border-black min-w-max">

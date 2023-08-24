@@ -1,5 +1,5 @@
 export const CardFooter = ({ contentFooter }) => {
-  const { desc, objetivos } = contentFooter;
+  const { desc, objetivos } = contentFooter || {};
   return (
     <div className="my-10 bg-white p-5 lg:p-5">
       <div className="p-5 text-justify lg:p-14 border-b-2 border-b-black">
@@ -17,7 +17,7 @@ export const CardFooter = ({ contentFooter }) => {
         </div>
         <div className="mt-4">
           <ul className="space-y-10">
-            {objetivos.map(({ id, obj }) => {
+            {objetivos?.map(({ id, obj }) => {
               return (
                 <li key={id}>
                   <span className="border-l-4 border-l-blue-500">

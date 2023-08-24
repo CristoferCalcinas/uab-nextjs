@@ -3,7 +3,7 @@ import { CardPerfilProfesional } from "./CardPerfilProfesional";
 import { CardPlanEstudios } from "./CardPlanEstudios";
 
 export const Body = ({ bodyContent }) => {
-  const { footer, perfil_campo, plan_de_estudios } = bodyContent;
+  const { footer, perfil_campo, plan_de_estudios } = bodyContent || {};
   return (
     <div>
       <CardPerfilProfesional content={perfil_campo} />

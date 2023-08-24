@@ -63,12 +63,12 @@ const callouts = [
 
 export default function Galery() {
   return (
-    <div className="bg-gray-900">
+    <div className="bg-gray-900 rounded-xl">
       <div className="mx-auto max-w-7xl px-4 sm:px-6 lg:px-8">
-        <div className="mx-auto max-w-2xl py-10 sm:py-14 lg:max-w-none lg:py-14">
+        <div className="mx-auto max-w-2xl py-10 lg:max-w-none lg:py-10">
           <ButtonMain />
 
-          <h2 className="text-2xl font-bold text-slate-400">
+          <h2 className="text-2xl font-bold text-slate-400 my-5">
             Galeria de Fotos
           </h2>
 

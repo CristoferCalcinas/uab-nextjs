@@ -105,7 +105,7 @@ export default function Ventajas() {
                   <div className="flex-auto lg:col-span-7 xl:col-span-8">
                     <div className="aspect-h-2 aspect-w-5 overflow-hidden rounded-lg bg-gray-100">
                       <Image
-                        className="object-cover object-center hover:scale-125 hover:transition-all duration-500 ease-in-out"
+                        className="object-cover object-center group-hover:scale-125 group-hover:transition-all duration-500 ease-in-out"
                         src={feature.imageSrc}
                         alt={feature.imageAlt}
                       />

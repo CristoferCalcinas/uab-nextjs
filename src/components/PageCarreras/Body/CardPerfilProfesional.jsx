@@ -1,5 +1,5 @@
 export const CardPerfilProfesional = ({ content }) => {
-  const { campo, perfil } = content;
+  const { campo, perfil } = content || {};
   return (
     <div className="space-y-5 my-5">
       <div className="bg-[#003264] text-white p-10 space-y-5">
