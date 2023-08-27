@@ -99,11 +99,11 @@ export default function HomeGridLists() {
               .toLowerCase();
           };
           return (
-            <Link href={`/carreras/${normalize(project.name)}`}>
-              <li
-                key={project.name}
-                className="col-span-1 flex rounded-md shadow-sm animate__animated animate__flash animate__repeat-2"
-              >
+            <Link
+              href={`/carreras/${normalize(project.name)}`}
+              key={project.initials}
+            >
+              <li className="col-span-1 flex rounded-md shadow-sm animate__animated animate__flash animate__repeat-2">
                 <div
                   className={classNames(
                     project.bgColor,

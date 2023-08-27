@@ -1,18 +1,18 @@
 import { CarreraItem } from "@/components/Carreras/CarreraItem";
-import imageCarrera1 from "@/images/imagesCarreras/imageCarrera_1.jpg";
-import imageCarrera2 from "@/images/imagesCarreras/imageCarrera_2.jpg";
-import imageCarrera3 from "@/images/imagesCarreras/imageCarrera_3.jpg";
-import imageCarrera4 from "@/images/imagesCarreras/imageCarrera_4.jpg";
-import imageCarrera5 from "@/images/imagesCarreras/imageCarrera_5.jpg";
-import imageCarrera6 from "@/images/imagesCarreras/imageCarrera_6.jpg";
-import imageCarrera7 from "@/images/imagesCarreras/imageCarrera_7.jpg";
-import imageCarrera8 from "@/images/imagesCarreras/imageCarrera_8.jpg";
-import imageCarrera9 from "@/images/imagesCarreras/imageCarrera_9.jpg";
-import imageCarrera10 from "@/images/imagesCarreras/imageCarrera_10.jpg";
-import imageCarrera11 from "@/images/imagesCarreras/imageCarrera_11.jpg";
-import imageCarrera12 from "@/images/imagesCarreras/imageCarrera_12.jpg";
-import imageCarrera13 from "@/images/imagesCarreras/imageCarrera_13.jpg";
-import imageCarrera14 from "@/images/imagesCarreras/imageCarrera_14.jpg";
+import imageCarrera1 from "@/images/imagesCarreras/ImageCarrera_1.jpg";
+import imageCarrera2 from "@/images/imagesCarreras/ImageCarrera_2.jpg";
+import imageCarrera3 from "@/images/imagesCarreras/ImageCarrera_3.jpg";
+import imageCarrera4 from "@/images/imagesCarreras/ImageCarrera_4.jpg";
+import imageCarrera5 from "@/images/imagesCarreras/ImageCarrera_5.jpg";
+import imageCarrera6 from "@/images/imagesCarreras/ImageCarrera_6.jpg";
+import imageCarrera7 from "@/images/imagesCarreras/ImageCarrera_7.jpg";
+import imageCarrera8 from "@/images/imagesCarreras/ImageCarrera_8.jpg";
+import imageCarrera9 from "@/images/imagesCarreras/ImageCarrera_9.jpg";
+import imageCarrera10 from "@/images/imagesCarreras/ImageCarrera_10.jpg";
+import imageCarrera11 from "@/images/imagesCarreras/ImageCarrera_11.jpg";
+import imageCarrera12 from "@/images/imagesCarreras/ImageCarrera_12.jpg";
+import imageCarrera13 from "@/images/imagesCarreras/ImageCarrera_13.jpg";
+import imageCarrera14 from "@/images/imagesCarreras/ImageCarrera_14.jpg";
 export const carreras = [
   {
     id: 1,
